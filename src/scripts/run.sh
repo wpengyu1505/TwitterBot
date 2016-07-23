@@ -1,3 +1,5 @@
+#!/bin/bash
+
 QUERY=$1
 DATE=$2
 LIMIT=$3
