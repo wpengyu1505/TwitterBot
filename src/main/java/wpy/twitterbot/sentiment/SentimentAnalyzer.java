@@ -41,7 +41,7 @@ public class SentimentAnalyzer {
             }
         }
 
-        return hitCount == 0 ? null : new Sentiment(valence / hitCount, arousal / hitCount, dominance / hitCount);
+        return hitCount == 0 ? null : new Sentiment(valence / hitCount, arousal / hitCount, dominance / hitCount, hitCount);
     }
 
     private class Keyword {

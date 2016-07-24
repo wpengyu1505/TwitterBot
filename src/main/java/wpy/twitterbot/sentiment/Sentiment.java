@@ -5,11 +5,13 @@ public class Sentiment {
     private double valence;
     private double arousal;
     private double dominance;
+    private int hits;
 
-    public Sentiment(double valence, double arousal, double dominance) {
+    public Sentiment(double valence, double arousal, double dominance, int hits) {
         this.valence = valence;
         this.arousal = arousal;
         this.dominance = dominance;
+        this.hits = hits;
     }
 
     public double getValence() {
@@ -36,7 +38,16 @@ public class Sentiment {
         this.dominance = dominance;
     }
 
+	public int getHits() {
+		return hits;
+	}
+
+	public void setHits(int hits) {
+		this.hits = hits;
+	}
+	
     public String toString() {
-        return "v=" + valence + ",a=" + arousal + ",d=" + dominance;
+        return "v=" + valence + ",a=" + arousal + ",d=" + dominance + ",hit=" + hits;
     }
+
 }
