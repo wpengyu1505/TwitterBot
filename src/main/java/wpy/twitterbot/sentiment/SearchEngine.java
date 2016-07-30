@@ -66,6 +66,7 @@ public class SearchEngine {
             executeByBatch(limit, outputFile);
         } else {
             OutputStreamWriter fw = new OutputStreamWriter(new FileOutputStream(outputFile));
+            handleRateStatus();
             QueryResult result = twitter.search(query);
             System.out.println("Returned tweets: " + result.getTweets().size());
             for (Status status : result.getTweets()) {
@@ -81,6 +82,8 @@ public class SearchEngine {
         long count = 0;
         OutputStreamWriter fw = new OutputStreamWriter(new FileOutputStream(outputFile));
         while (count < limit) {
+            
+            handleRateStatus();
             QueryResult result = twitter.search(query);
             
             // If no more tweets returned just quit
@@ -97,14 +100,6 @@ public class SearchEngine {
 
             // Set the minimum tweet ID as the max for the next query
             query.setMaxId(tweetId - 1);
-            
-            System.out.println("Rate status");
-            RateLimitStatus rateLimitStatus = twitter.getRateLimitStatus().get("/search/tweets");
-            System.out.println("Search remaining: " + rateLimitStatus.getRemaining());
-            if (rateLimitStatus.getRemaining() == 0) {
-                System.out.println("Search has reached limit, wait " + rateLimitStatus.getSecondsUntilReset() + " seconds to reset");
-                Thread.sleep(rateLimitStatus.getSecondsUntilReset() * 1000);
-            }
         }
         fw.close();
     }
@@ -120,4 +115,13 @@ public class SearchEngine {
         }
     }
     
+    private void handleRateStatus() throws InterruptedException, TwitterException {
+        System.out.println("Rate status");
+        RateLimitStatus rateLimitStatus = twitter.getRateLimitStatus().get("/search/tweets");
+        System.out.println("Search remaining: " + rateLimitStatus.getRemaining());
+        if (rateLimitStatus.getRemaining() < 10) {
+            System.out.println("Search has reached limit, wait " + rateLimitStatus.getSecondsUntilReset() + " seconds to reset");
+            Thread.sleep(rateLimitStatus.getSecondsUntilReset() * 1000);
+        }
+    }
 }
