@@ -48,7 +48,8 @@ public class SentimentAnalyzer {
         }
 
         return hitCount < 1 ? null
-                : new Sentiment(valence / hitCount, arousal / hitCount, dominance / hitCount, hitCount, keys);
+                : new Sentiment(getWeightedMeanValence(hitKeywords), getWeightedMeanArousal(hitKeywords),
+                        getWeightedMeanDominance(hitKeywords), hitCount, keys);
     }
 
     public double getWeightedMeanValence(ArrayList<Keyword> keywords) {
@@ -77,6 +78,20 @@ public class SentimentAnalyzer {
         }
 
         return meanArousal;
+    }
+
+    public double getWeightedMeanDominance(ArrayList<Keyword> keywords) {
+        double weightSum = 0;
+        for (Keyword kw : keywords) {
+            weightSum += 1 / kw.getDominanceStd();
+        }
+
+        double meanDominance = 0;
+        for (Keyword kw : keywords) {
+            meanDominance += kw.getDominance() * (1 / kw.getDominanceStd()) / weightSum;
+        }
+
+        return meanDominance;
     }
 
     private class Keyword {
