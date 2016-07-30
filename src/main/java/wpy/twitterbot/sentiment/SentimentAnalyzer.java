@@ -2,9 +2,9 @@ package wpy.twitterbot.sentiment;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.HashMap;
 
 public class SentimentAnalyzer {
@@ -26,6 +26,9 @@ public class SentimentAnalyzer {
     public Sentiment getSentimentScore(String line) {
 
         String[] tokens = line.split(" ");
+        ArrayList<String> keys = new ArrayList<String>();
+        ArrayList<Keyword> hitKeywords = new ArrayList<Keyword>();
+        
         double valence = 0;
         double arousal = 0;
         double dominance = 0;
@@ -37,11 +40,54 @@ public class SentimentAnalyzer {
                 valence += kw.getValence();
                 arousal += kw.getArousal();
                 dominance += kw.getDominance();
+                
+                hitKeywords.add(kw);
                 hitCount++;
+                keys.add(kw.getWord());
             }
         }
+        
+        
 
-        return hitCount == 0 ? null : new Sentiment(valence / hitCount, arousal / hitCount, dominance / hitCount, hitCount);
+        return hitCount < 1 ? null : new Sentiment(valence / hitCount, arousal / hitCount, dominance / hitCount, hitCount, keys);
+    }
+    
+    public double getWeightedMeanValence(ArrayList<Keyword> keywords) {
+        double totalStd = 0;
+        for (Keyword kw : keywords) {
+            totalStd += kw.getValenceStd();
+        }
+        
+        double weightSum = 0;
+        for (Keyword kw : keywords) {
+            weightSum += 1 - (kw.getValenceStd() / totalStd);
+        }
+        
+        double meanValence = 0;
+        for (Keyword kw : keywords) {
+            meanValence += (1 - (kw.getValenceStd() / totalStd)) / weightSum;
+        }
+        
+        return meanValence;
+    }
+    
+    public double getWeightedMeanArousal(ArrayList<Keyword> keywords) {
+        double totalStd = 0;
+        for (Keyword kw : keywords) {
+            totalStd += kw.getArousalStd();
+        }
+        
+        double weightSum = 0;
+        for (Keyword kw : keywords) {
+            weightSum += 1 - (kw.getArousalStd() / totalStd);
+        }
+        
+        double meanArousal = 0;
+        for (Keyword kw : keywords) {
+            meanArousal += (1 - (kw.getArousalStd() / totalStd)) / weightSum;
+        }
+        
+        return meanArousal;
     }
 
     private class Keyword {
@@ -57,7 +103,7 @@ public class SentimentAnalyzer {
 
         public Keyword(String line) {
             String[] fields = line.split(" ");
-            System.out.println(line);
+            //System.out.println(line);
             this.word = fields[0];
             this.valence = Double.parseDouble(fields[2]);
             this.valenceStd = Double.parseDouble(fields[3].replaceAll("\\(", "").replaceAll("\\)", ""));

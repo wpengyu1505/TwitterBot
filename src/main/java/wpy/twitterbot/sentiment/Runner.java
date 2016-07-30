@@ -1,11 +1,12 @@
 package wpy.twitterbot.sentiment;
 
 import java.io.IOException;
+import java.text.ParseException;
 
 import twitter4j.TwitterException;
 
 public class Runner {
-    public static void main(String[] args) throws TwitterException, IOException {
+    public static void main(String[] args) throws TwitterException, IOException, ParseException, InterruptedException {
         if (args.length < 4) {
             System.err.println("Must provide arguments: <query text> <date yyyy-MM-dd> <size limit> <output path>");
             System.exit(-1);
