@@ -23,24 +23,17 @@ public class SentimentAnalyzer {
         br.close();
     }
 
-    public Sentiment getSentimentScore(String line) {
+    public Sentiment getSentimentScore(String line, String dateTime, String tweetId) {
 
         String[] tokens = line.split(" ");
         ArrayList<String> keys = new ArrayList<String>();
         ArrayList<Keyword> hitKeywords = new ArrayList<Keyword>();
 
-        double valence = 0;
-        double arousal = 0;
-        double dominance = 0;
         int hitCount = 0;
 
         for (String token : tokens) {
             if (keywords.containsKey(token.toLowerCase())) {
                 Keyword kw = keywords.get(token.toLowerCase());
-                valence += kw.getValence();
-                arousal += kw.getArousal();
-                dominance += kw.getDominance();
-
                 hitKeywords.add(kw);
                 hitCount++;
                 keys.add(kw.getWord());
@@ -48,8 +41,8 @@ public class SentimentAnalyzer {
         }
 
         return hitCount < 1 ? null
-                : new Sentiment(getWeightedMeanValence(hitKeywords), getWeightedMeanArousal(hitKeywords),
-                        getWeightedMeanDominance(hitKeywords), hitCount, keys);
+                : new Sentiment(tweetId, line, dateTime, getWeightedMeanValence(hitKeywords),
+                        getWeightedMeanArousal(hitKeywords), getWeightedMeanDominance(hitKeywords), hitCount, keys);
     }
 
     public double getWeightedMeanValence(ArrayList<Keyword> keywords) {

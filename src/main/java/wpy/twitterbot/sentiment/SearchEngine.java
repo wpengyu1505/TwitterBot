@@ -7,7 +7,6 @@ import java.io.OutputStreamWriter;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Map;
 import java.util.Properties;
 
 import twitter4j.Query;
@@ -29,6 +28,7 @@ public class SearchEngine {
     private static final int SEARCH_LIMIT = 100;
     private static final String OAUTH_PROPERTIES_FILE = "access.properties";
     private static SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+    private static SimpleDateFormat sdtf = new SimpleDateFormat("yyyyMMddHHmmss");
     private Twitter twitter;
     private Query query;
     private ConfigurationBuilder conf;
@@ -44,12 +44,12 @@ public class SearchEngine {
         conf.setOAuthConsumerSecret(props.getProperty("oauth.consumerSecrete"));
         conf.setOAuthAccessToken(props.getProperty("oauth.accessToken"));
         conf.setOAuthAccessTokenSecret(props.getProperty("oauth.accessTokenSecrete"));
-        
+
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(sdf.parse(date));
         calendar.add(Calendar.DATE, 1);
         String nextDate = sdf.format(calendar.getTime());
-        
+
         analyzer = new SentimentAnalyzer();
 
         twitter = new TwitterFactory(conf.build()).getInstance();
@@ -57,7 +57,7 @@ public class SearchEngine {
         query.setLang("en");
         query.setUntil(nextDate);
         query.setSince(date);
-        
+
     }
 
     public void execute(int limit, String outputFile) throws TwitterException, IOException, InterruptedException {
@@ -76,16 +76,17 @@ public class SearchEngine {
         }
     }
 
-    private void executeByBatch(int limit, String outputFile) throws TwitterException, IOException, InterruptedException {
+    private void executeByBatch(int limit, String outputFile)
+            throws TwitterException, IOException, InterruptedException {
         query.setCount(limit);
         long tweetId = Long.MAX_VALUE;
         long count = 0;
         OutputStreamWriter fw = new OutputStreamWriter(new FileOutputStream(outputFile));
         while (count < limit) {
-            
+
             handleRateStatus();
             QueryResult result = twitter.search(query);
-            
+
             // If no more tweets returned just quit
             System.out.println("Returned tweets: " + result.getTweets().size());
             if (result.getTweets().isEmpty()) {
@@ -106,21 +107,24 @@ public class SearchEngine {
 
     private void processTweetOutput(Status status, OutputStreamWriter writer) throws IOException {
         String text = status.getText();
-        Sentiment sm = analyzer.getSentimentScore(text);
+        String dateTime = sdtf.format(status.getCreatedAt());
+        String tweetId = Long.toString(status.getId());
+        Sentiment sm = analyzer.getSentimentScore(text, dateTime, tweetId);
         if (sm != null) {
-            String out = status.getCreatedAt().toString() + "|" + "@" + status.getUser().getScreenName() + "|"
+            String out = tweetId + "|" + dateTime + "|" + "@" + status.getUser().getScreenName() + "|"
                     + status.getText().replaceAll("\n", ". ").replaceAll("\\|", " ") + "|" + sm.toString();
-            //System.out.println(out);
+            // System.out.println(out);
             writer.write(out + "\n");
         }
     }
-    
+
     private void handleRateStatus() throws InterruptedException, TwitterException {
         System.out.println("Rate status");
         RateLimitStatus rateLimitStatus = twitter.getRateLimitStatus().get("/search/tweets");
         System.out.println("Search remaining: " + rateLimitStatus.getRemaining());
         if (rateLimitStatus.getRemaining() < 10) {
-            System.out.println("Search has reached limit, wait " + rateLimitStatus.getSecondsUntilReset() + " seconds to reset");
+            System.out.println(
+                    "Search has reached limit, wait " + rateLimitStatus.getSecondsUntilReset() + " seconds to reset");
             Thread.sleep(rateLimitStatus.getSecondsUntilReset() * 1000);
         }
     }
