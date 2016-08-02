@@ -1,0 +1,82 @@
+759538760493195264|20160730195846|@PattyWhacked|@Doctor_Cupcakes My guess is that the supposed base station incorporates the "supplemental computing device" patent with NVidia chips.|v=5.29,a=3.5,d=4.9,hit=1,key=patent
+759532811988701184|20160730193508|@Ryan09127537|Don't waist your money on ps4 and, box one when in a few years they will stop making when nvidia shield will still be going strong foryears👍|v=7.36,a=5.82,d=6.58,hit=2,key=money-strong
+759531297144471552|20160730192907|@TheBritishSonic|@Doctor_Cupcakes wonder if nvidia means it'll have shadow play stuff?|v=5.09,a=4.65,d=4.71,hit=2,key=wonder-shadow
+759526429629489152|20160730190946|@Doctor_Cupcakes|To clarify my stance on NX stuff: I have no idea about the chip, but NVIDIA is 100% involved with the system.|v=7,a=5.86,d=6.26,hit=1,key=idea
+759523638081183744|20160730185841|@Diegobez|Nvidia and star wars VR demos have some resolution&texture problems. Maybe they are related to the aliasing post of @ID_AA_Carmack|v=7.27,a=5.83,d=4.68,hit=1,key=star
+759522117591429124|20160730185238|@lionheartx10|@incoherencel if you've got a recent Nvidia card I'd give nvenc recording via OBS studio a whirl however the HD60 Pro is rather good :)|v=7.47,a=5.43,d=6.41,hit=1,key=good
+759521142541541376|20160730184846|@Diegobez|Finally found some time to check out the star wars and nvidia Vive demos.I enjoyed a lot the lightsaber and the theme :).Both looked low-res|v=6.39,a=5.27,d=4.66,hit=2,key=time-star
+759520688336171012|20160730184657|@AllOutJay|@GamingBecause It was a stupid Nvidia driver setting that I had to change.|v=2.31,a=4.72,d=2.98,hit=1,key=stupid
+759504357633196032|20160730174204|@CaptainSnoop|reports are saying that the NX will be using the nvidia tegra X2, not the X1, meaning it'll be a handheld as powerful as an Xbone|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+759503133424877568|20160730173712|@charlesarthur|@PercyCentre good question. October? January? Might depend on an Intel or Nvidia schedule.|v=7.47,a=5.43,d=6.41,hit=1,key=good
+759501235649126400|20160730172940|@shelbydz|@AspyrMedia hey guys, im having issues with layers of fear in nvidia gtx 1080. games is laggy/freezes. do you have support email address?|v=2.76,a=6.96,d=3.22,hit=1,key=fear
+759485071250362368|20160730162526|@Fasdrak|we need nVidia-chan and AMD-chan doing cute things together, someone get on this|v=7.62,a=5.53,d=4.86,hit=1,key=cute
+759484231387078656|20160730162205|@darrenbough1987|@wookie_wizardry hi wookie..any idea why I can't find the fixtures app on Google play store on the nvidia shield please? Cheers|v=7,a=5.86,d=6.26,hit=1,key=idea
+759475685542866944|20160730154808|@wardog546|Kind of want a Ti version of a recent Nvidia GPU but one day. Probably be a GTX 1270 by the time I get there lol|v=6.56,a=4.55,d=5.34,hit=2,key=kind-time
+759467450303905792|20160730151525|@KrytenSH1|I wish ATI and Nvidia would stop writing unified graphics drivers because it causes conflicts with other applications.. Game crashed hard.|v=7.03,a=5.54,d=5.51,hit=2,key=wish-game
+759462027547045888|20160730145352|@_HellPie|@QuadPiece i thought amd provided open source drivers that worked... Is nVidia finally better now?|v=6.39,a=4.83,d=6.02,hit=1,key=thought
+759461968793264128|20160730145338|@ReciRaider|@HighArchmage I've been ATI so long I can hardly comment on Nvidia stuff atm - I can tell you I like Asus & Sapphire builds though|v=7,a=5,d=5.55,hit=1,key=sapphire
+759436973018755072|20160730131418|@altojetpack|@TempTheDragon fire tablets are trash get an nvidia shield instead|v=2.9,a=5.7,d=4.92,hit=2,key=fire-trash
+759435103345016832|20160730130652|@Allstocknews|$NVDA Information for NVIDIA Corporation. From our Stock News Alerts App|v=5.3,a=5.17,d=4.6,hit=1,key=news
+759428951337041920|20160730124226|@Kurenai_FFXIV|@Beerinacup It's a 2013 rig. It seems that Nvidia driver updates are sometimes like playing Russian roulette. They crash my whole system.|v=2.31,a=6.95,d=3.44,hit=1,key=crash
+759424082492297216|20160730122305|@cjsmurph|@JimmerDaWinner shorts are khaki, shirt is one from the nvidia 1080 release party and the shoes are Adidas...But that's essentially me today|v=7.86,a=6.69,d=5.83,hit=1,key=party
+759414598072053760|20160730114524|@Wallace1Dylan|@CaseyTheVA @YouTube ^^^one of the videos talking about nvidia and the lawsuit|v=3.37,a=4.93,d=3.92,hit=1,key=lawsuit
+759412173483507712|20160730113546|@Tertius_Foxy|The normal Nvidia Shield is half crap half good|v=7.47,a=5.43,d=6.41,hit=1,key=good
+759407800585900032|20160730111823|@1Kive|@DarioOreos then you dont see the nvidia reddit. everyday a new post about a dead card|v=1.94,a=5.73,d=2.84,hit=1,key=dead
+759403955478749185|20160730110306|@Pistol_Francois|@AwesomePlatter  home console won't be there until 2018/19 when NEO, Scorpio dust settled and PS5 coming. 2017 will be NVidia device only|v=7.91,a=4.21,d=5.9,hit=1,key=home
+759402734915387392|20160730105815|@FakeGhostPirate|@AndySouthwell yeah good point, not 100% certain how that works, or if nvidia will cover the VAT, I think they should though|v=7.47,a=5.43,d=6.41,hit=1,key=good
+759401624150343680|20160730105350|@AlValentyn|@mechanicalfluff Ah very nice card there. Shame NVIDIA couldn't get more IPC out of Pascal but Volta is the big daddy is seems :D|v=6.55,a=4.38,d=5.58,hit=1,key=nice
+759401276211798016|20160730105227|@vageeshkulkarni|Ple sugg BEST laptop,4 GB / 8 GB,Nvidia graphic card,1TB hard disk,15'6" display,Intel i5/i4/i3  4th gen,HP or lenovo or Asus  belowRs40,000|v=5.22,a=5.12,d=5.59,hit=1,key=hard
+759401163456413696|20160730105201|@TopStiGear|@SoTotallyToby @DaveChaos @HybridPanda @Blaze_Ninja4474 lowest spec? I got the E5 and Nvidia, will make rendering a hell of a lot faster|v=2.24,a=5.38,d=3.24,hit=1,key=hell
+759400159683936256|20160730104801|@roboko_001|Nvidia driver loaded - bugs to nvidia. vmware loaded bugs to vmware,both loaded, god help you, nobody else will- Alan C|v=8.15,a=5.95,d=5.88,hit=1,key=god
+759399684054155264|20160730104608|@Nucloid93|Holy shit my PC is all sorts of knackered. WatchDog_Violations & Kernel Power Failures. I wish I had a job and get new parts. #AMD #Nvidia|v=6.83,a=6.04,d=6.22,hit=2,key=power-wish
+759399536288632832|20160730104533|@AuraSoundz|It's rumored that the graphics chip inside the Nintendo NX will be the Nvidia Tegra X1 (which is less powerful than the PS4 & Xbox One)|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+759388159293677568|20160730100020|@SHREDDER2013|@yagnbing Congratulations for your work game looks awesome! But you must  add pc onyl features like 4k textures DX12 Vulkan and Nvidia|v=6.98,a=5.89,d=5.7,hit=1,key=game
+759380694376210432|20160730093040|@TreReis|@booredatwork @nvdida @SomeGadgetGuy seeing as nvidia doesn't actually manufacture or sell their cards that would be hard for them to do|v=5.22,a=5.12,d=5.59,hit=1,key=hard
+759366234395840512|20160730083313|@Samathy_Barratt|People at work this week were complaining about newer Nvidia Titans not having FP64 support.. Its cool that FP64 support matters where I work|v=7.33,a=5.94,d=6.14,hit=1,key=people
+759364784869343232|20160730082727|@1Kive|alot of people 1070s and 1080s are failing at an alarming rate. glad i decided to wait on buying one lol #nvidia|v=7.33,a=5.94,d=6.14,hit=1,key=people
+759362252629741568|20160730081723|@imwatchingu7|@StockInformer hey mate, whats the chance of tracking the nvidia shield k1 tablet? A few of us are struggling to find em.|v=6.02,a=5.38,d=4.64,hit=1,key=chance
+759361660146552832|20160730081502|@coreteks|nVidia paying 30$ to each 970 buyer is good news for the consumer. Let's keep these companies honest.|v=6.46,a=5.28,d=5.47,hit=2,key=good-news
+759348904064200704|20160730072421|@AuntyShiba|@solebrotherkab @MrShikaki @aston_wave Nvidia literally hire hundreds of people to hotfix out the ineptitude of AAA programmers.|v=7.33,a=5.94,d=6.14,hit=1,key=people
+759338255619883008|20160730064202|@xBlockk|@TylarYaz if you have a 970 or an NVIDIA video card dont stream with the 264x encoder trust me, the 3rd option is the smoothest for fps|v=6.55,a=5,d=6.47,hit=2,key=trust-option
+759312040112623616|20160730045752|@FallOfGondolin|$30 refund for the Nvidia GTX 970 lawsuit to EVERYONE that bought one... Hrm|v=3.37,a=4.93,d=3.92,hit=1,key=lawsuit
+759310556155285504|20160730045158|@QuadPiece|@_HellPie I mean... that's the Nvidia Shield. Developers actually do seem to love it. Problem is that consumers don't|v=8.72,a=6.44,d=7.11,hit=1,key=love
+759307308954333185|20160730043904|@MonsterTruck010|@JoblessGarrett still got your GTX 970? Nvidia lost in court and is refunding $30 to 970 owners.|v=2.82,a=5.82,d=2.86,hit=1,key=lost
+759304128052899840|20160730042625|@OfficialDaBlaze|So it looks like Nvidia is gonna give me $30. Nice|v=6.55,a=4.38,d=5.58,hit=1,key=nice
+759298232916832256|20160730040300|@Nimmo1492|@Tenkay23 @TheSpaceKing24 As in, the handheld is ARM/Nvidia, the home console is x86/AMD. You dock the HH with the home machine for tv play.|v=6.99,a=4.06,d=5.66,hit=3,key=home-home-machine
+759295448637071360|20160730035156|@JasuBatteh|@JulieTRRoo @ChessPinkhoof Yep! Nvidia is working hard on their own stuff for making games run awesome without win10|v=5.22,a=5.12,d=5.59,hit=1,key=hard
+759289542780264448|20160730032828|@captgetto|nvidia is giving $30 to people who bought 970|v=7.33,a=5.94,d=6.14,hit=1,key=people
+759279756022022145|20160730024935|@DracoWake|@Tenkay23 I'm just done with HH, but yeah even nvidia said last earnings they're done with tegra for mobile, just to automotive and industry|v=5.3,a=4.47,d=4.91,hit=1,key=industry
+759278582543835136|20160730024455|@Kriswhytesmith|@MSI__UK @NVIDIA_UK @OverclockersUK @IntelUK @Corsair @OC3D I need that I my life now just to fine the funds to pay for it wishing on a star|v=7.27,a=5.92,d=5.16,hit=2,key=life-star
+759259744758628352|20160730013004|@cheyennEbooks|I hit a stranger can put you into an extremely good Nvidia graphics!|v=6.27,a=5.6,d=5.64,hit=2,key=hit-good
+759258780077031424|20160730012614|@Strimose|I'm thinking of getting an RX 480 now and another one in time to crossfire them and pass up NVidia's 10XX. Future-proofing. 👌👌👌 #dx12|v=5.31,a=4.64,d=4.63,hit=1,key=time
+759257908832047104|20160730012246|@AlTobey|@solarce NVIDIA Shield? I've heard nice things about their Plex integration but have not tried it myself. I like the tablet well enough.|v=6.55,a=4.38,d=5.58,hit=1,key=nice
+759252389081808897|20160730010050|@MarwanGC|I could use Nvidia Profile Inspector to set a game to a desired framerate, but recently, you could no longer set an exact round framerate.|v=6.98,a=5.89,d=5.7,hit=1,key=game
+759251604948316160|20160730005743|@ryo_on|Older desktop machine may have nvidia or amd GPU inside. However it may not be radeon and nouveau.|v=5.09,a=3.82,d=5.23,hit=1,key=machine
+759251423485915137|20160730005700|@erwstout|Huh. Nvidia loses class action lawsuit, owes me $30 for a pretty dope video card I love and still use. Sounds good to me.|v=8.16,a=5.95,d=6.27,hit=3,key=pretty-love-good
+759250940029468674|20160730005504|@cnd79|@JayzTwoCents 3 is total overkill but imagine little Jay playing nvidia vr funhouse with that awesome physx|v=7.32,a=5.98,d=7.07,hit=1,key=imagine
+759250128372924416|20160730005151|@MarwanGC|I used to be able to force a game to run at 30fps by setting Nvidia's vsync to "Adaptive (half refresh rate)". Doesn't work anymore.|v=6.98,a=5.89,d=5.7,hit=1,key=game
+759249498984083456|20160730004921|@MercuryCrusader|Latest Nvidia drivers on my 980Ti sure are fun. Sometimes a game will crash, throw me back into my login screen, then "update" my drivers.|v=6.98,a=5.89,d=5.7,hit=1,key=game
+759249002336546816|20160730004722|@SenorBlanco_|@McNuguid so you have kodi on your desktop and you use your fire stick for nVidia shield to get it on your tv?|v=3.22,a=7.17,d=4.49,hit=1,key=fire
+759237542839484417|20160730000150|@freestylebit|If you upgrade to Ubuntu 16.04 and have an AMD card, you will be forced to spend money on evil NVIDIA.  You are all warned!|v=6.08,a=6.06,d=5.78,hit=2,key=money-evil
+759233929564094465|20160729234729|@KingHorseHead|A big old "up yours" to #Nvidia now that the lawsuit of the #970 is settling. . #3.5. #NeverForget|v=3.37,a=4.93,d=3.92,hit=1,key=lawsuit
+759232699609575429|20160729234236|@syahril___|Since the lawsuit with Nvidia is finished, now they owe every GTX 970 owner 120 bucks. Easy money|v=6.23,a=5.04,d=5.8,hit=3,key=lawsuit-easy-money
+759231244941070341|20160729233649|@TreasureDev|@koz4christ RMA, go Nvidia if possible.  Don't get overclocked editions, they burn out fast.  If you want longevity get stock clock|v=4,a=5.28,d=4.44,hit=2,key=burn-clock
+759230405992181761|20160729233329|@A4Andre|@OBSProject No idea what that is but I do have an nvidia card, I upgraded to studio hope everything works out.|v=7.02,a=5.68,d=5.91,hit=2,key=idea-hope
+759226546456584192|20160729231809|@Emerpos|@MrMcflanigen people think nvidia will give them millions|v=7.33,a=5.94,d=6.14,hit=1,key=people
+759224125848248321|20160729230831|@RJtheGamer|Class action lawsuit agaist nVidia and their gtx 970 which just so happends to be the card I bought. Jigsaw about to win 30 bucks here 👌|v=6.8,a=6.41,d=5.52,hit=2,key=lawsuit-win
+759222897378492416|20160729230339|@Yeagers_ebooks|NVIDIA THOUGHT THEY WERE SLICK AND TRIED TO UPDATE MY DRIVERS WHILE I WAS IN OVERWATCH THE MATCHMAKING HAS SOME REAL BAD SPAGHETTI CODE|v=6.39,a=4.83,d=6.02,hit=1,key=thought
+759221866389204992|20160729225933|@SugarTreeMobile|Thank you NVIDIA, for having us make your Intern Event a little sweeter. 󾥼|v=6.21,a=5.1,d=5.52,hit=1,key=event
+759217241019838467|20160729224110|@DadGiuliani|Apparently because Nvidia lost a lawsuit about the 970's memory I get $30 back.|v=4.46,a=5.38,d=3.87,hit=3,key=lost-lawsuit-memory
+759214681999413248|20160729223100|@OptimizeVFX|@RedTwyman if you have an nvidia graphics card use nvidia shadow play|v=4.35,a=4.3,d=4.19,hit=1,key=shadow
+759203764729421824|20160729214737|@prankcoast|@timebandit  NVIDIA is great. Consoles are about power next- Next Xbox has 10 core cpu and VR focus. VR headsets work best with high end GPU|v=6.54,a=6.67,d=7.28,hit=1,key=power
+759198074514268160|20160729212500|@IceBrgs|@UnversedXI Like every game I play is optimized for Nvidia GPU's. Tired of waiting for new AMD GPU's as well. Buying a 1080.|v=6.98,a=5.89,d=5.7,hit=1,key=game
+759196091875205120|20160729211708|@Cocodwor|@Noi20XX @Tenkay23 they license tech on every platform. Nvidia is used to license tech & N has the HW division to make it custom|v=5.85,a=4.66,d=5,hit=1,key=custom
+759195456924557313|20160729211436|@manishnamdeodir|@AdobePremiere 2015.3 is too much buggy causing  black screen if use #nvidia #gtx1070 as playback engine #editing #adobe|v=5.28,a=4.3,d=5.07,hit=2,key=black-engine
+759195418223935488|20160729211427|@blameurf8|@sunieepo I DIDNT NOTICE THE MICROWAVE...LEMME WATCH AGAIN. AND WHAT DOES NVIDIA MEAN|v=5.78,a=4.1,d=5.37,hit=1,key=watch
+759195303367020544|20160729211400|@sunieepo|@blameurf8 YEAH THE FACE IT MAKES LMAO ALSO THE MICROWAVE IN THE BACKGROUND SAYS NVIDIA AND IM DYING|v=6.39,a=5.04,d=5.67,hit=1,key=face
+759191642834280448|20160729205927|@DrewJaru|So i heard Nvidia has to dish out 30 bucks for anyone who bought the 970 from a lawsuit. Well lucky i have the 970! WHERES MY MONEY NVIDIA!|v=7.92,a=6.14,d=6.15,hit=2,key=lucky-money
+759187297120182272|20160729204211|@keany22|Best game to play in geforce now nvidia shield TV? @nvidiashield|v=6.98,a=5.89,d=5.7,hit=1,key=game
+759187105075585024|20160729204125|@Eamonnn_|@ToxiicDZN @KingWavyAdoxii @MorphineBear @Newegg nvidia hasnt given us a way to get the money yet check @pcgamer article on it|v=7.59,a=5.7,d=6.25,hit=1,key=money
+759185962412875781|20160729203653|@cuntologics|Dave is awfully defensive of his amd/polaris thing in light of this nvidia news since last week.|v=5.3,a=5.17,d=4.6,hit=1,key=news
+759184148049305600|20160729202940|@BNETTHRASHER|@DXRacer HTC inwin and nvidia. Omfg. Hydraulic chair is a must! With built in headset for VR! I am a visionary and I have further concepts.|v=5.08,a=3.15,d=4.56,hit=1,key=chair
+759181417108606976|20160729201849|@Chris_Gurrell|@linusgsebastian nvidia would have lost cash with loss of sales of GTX 980, as the 970 perf numbers would've been SUPER CLOSE to the 980|v=6.41,a=6.66,d=4.53,hit=2,key=lost-cash

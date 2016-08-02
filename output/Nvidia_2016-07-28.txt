@@ -1,0 +1,88 @@
+758814248420028416|20160728195949|@JasonCross00|@haydencd The only real question is "does this hurt Nvidia enough financially that they wouldn't pull that again."  My guess is probably no.|v=1.9,a=5.85,d=3.33,hit=1,key=hurt
+758810799750074369|20160728194607|@wizpip|@sndl77 @playtonicgames I have a 980 and win 10 and it's working, so you can rule those out. Is anything overclocked? Maybe uninstall nvidia|v=8.38,a=7.72,d=7.39,hit=1,key=win
+758810608351326208|20160728194521|@RhumbaRat|Wary of buying another NVIDIA product now. But this is probably the last gaming computer I'll ever get.|v=6.24,a=4.75,d=5.29,hit=1,key=computer
+758809202512887813|20160728193946|@gamesforfreeG|Nvidia agrees to settlement in lawsuit for GTX 970 false advertising  #games #gamesfree|v=3.37,a=4.93,d=3.92,hit=1,key=lawsuit
+758804615806586881|20160728192132|@Totobeni82|@PranooYY oh then rip nvidia x2. . One gpu future manufacturer future confirmed. @AMDGaming pls be gentle . . Time to sell my 1080|v=7.31,a=3.21,d=5.1,hit=1,key=gentle
+758803292176605188|20160728191617|@zombiej79|@ShadesOfMalice @ZhugeEX wii was good wii u was a cluster fuck. And I have a feeling the nx will be too just nvidia Shield tablet|v=7.47,a=5.43,d=6.41,hit=1,key=good
+758802847907491840|20160728191431|@JN370|@AngryBlkManDC Roku stick when I'm on the road, PS at home. Own all of them except Fire and NVIDIA.|v=3.22,a=7.17,d=4.49,hit=1,key=fire
+758793560200097792|20160728183737|@LPH24s|@feralgames Hi! Is the Nvidia Pascal GPU fps lag on Life is Strange with Linux still an issue? Any updates?|v=7.27,a=6.02,d=5.72,hit=1,key=life
+758793489408589824|20160728183720|@DCConnah|@MrRyanMorrison is this Nvidia lawsuit payout thing USA only? because my friend bought a 970 last year (were from the uk btw)|v=6.07,a=5.32,d=5.38,hit=2,key=lawsuit-friend
+758792112993406976|20160728183152|@someguydudeGAME|@EsperConductor Lawsuit happened, nVidia will be giving 970 owners $30 over false advertisement for the cards.|v=3.37,a=4.93,d=3.92,hit=1,key=lawsuit
+758792045096034304|20160728183135|@Dgeesio|@Titanfallgame @HairedEagle really hope this is true nvidia tourne i played in semi final sweden ping 200 in tf1.lobby system was only floor|v=7.05,a=5.44,d=5.52,hit=1,key=hope
+758792034308218880|20160728183133|@someguydudeGAME|@uf0s8mycat Yeah, there was a class action lawsuit against nVidia for the 970 not having the right amount of VRAM. Owners can get $30.|v=3.37,a=4.93,d=3.92,hit=1,key=lawsuit
+758791367975895040|20160728182854|@mattperrin|@GFX47 Also Nvidia/Intel "Optimus" can cause battery mode to trigger slow downs. Check Nvidia Control Panel|v=3.93,a=3.39,d=4.35,hit=1,key=slow
+758787382875267072|20160728181304|@Joelcool7|People suggesting @Nintendo #NX sports #Nvidia #Tegra1 insteada 2 are insane to think theyd put it on market against #XBoxOneScorpio #PS4NEO|v=5.44,a=5.21,d=5.22,hit=3,key=people-insane-market
+758785255515889664|20160728180437|@Joelcool7|After the abysmal failure of #WiiU I doubt #Nintendo would go with an underwhelming processor for #NX, It'll sport a #Nvidia TegraX2 chipset|v=1.7,a=4.95,d=2.4,hit=1,key=failure
+758782967028195328|20160728175531|@etdragonpunch|easy $30 USD in my pocket. Thanks Nvidia|v=7.1,a=4.48,d=7,hit=1,key=easy
+758780382586208256|20160728174515|@InkViper|@DirectFeedGames  Trick question, right? AMD for home and Nvidia for mob!|v=7.91,a=4.21,d=5.9,hit=1,key=home
+758778683792384000|20160728173830|@Yokijirou|@CVAnimation computer control panel uninstall nvidia driver|v=6.24,a=4.75,d=5.29,hit=1,key=computer
+758763942227435521|20160728163955|@akbullets|nvidia is giving out $30 to everyone who has a 970? cool, free $|v=8.26,a=5.15,d=6.35,hit=1,key=free
+758762258570764288|20160728163314|@scottlegrand|Dear #nvidia, please make #cudnn part of the #cuda toolkit already.  It's a pain to install it every time I update.|v=4.15,a=4.95,d=4.43,hit=3,key=part-pain-time
+758757301750796288|20160728161332|@tadthuggish|To be fair, there are PC users who did not have issues but that doesn't excuse the huge nVidia "kernel error" problem for many.|v=4.05,a=4.48,d=4.07,hit=1,key=excuse
+758755435608498176|20160728160607|@Sidskofa|@TechTytann Vegas but I'm going to move to Premier as all vegas does is crash with Nvidia|v=2.31,a=6.95,d=3.44,hit=1,key=crash
+758753376444088321|20160728155756|@sewrighter|#Artist heads up   brush, blot, blend without ever having to get your hands dirty   Adobe teams up with Nvidia to create #3D printing app|v=3.08,a=4.88,d=4.7,hit=1,key=dirty
+758751776199811072|20160728155135|@guydude117|@devixicus Dell Venue 11 Pro, and sometimes it's gonna catch fire. Haven't had a Nvidia tablet in a while, all ARM tablets = useless IMO|v=3.54,a=4.21,d=4.65,hit=2,key=arm-useless
+758743318909956097|20160728151758|@Aniion|Hopefully the class action lawsuit against NVIDIA extends to Canada so I can get $30 for my 970 too or else I'll be cheesed|v=3.37,a=4.93,d=3.92,hit=1,key=lawsuit
+758742044747501569|20160728151254|@TCraig70|@FranklinKyleJ it'll be more powerful than Wii U but weaker than PS4, the graphics is Nvidia Tegra chipset|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+758741627510796290|20160728151115|@753xofder|@PatrickVolpe also got a pretty old nvidia 660 gpu|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+758740074221608961|20160728150505|@katzebutt|Well, things seem to be doing okay on my computer now. It finally installed my nvidia drivers and stuff and things are... okay|v=6.24,a=4.75,d=5.29,hit=1,key=computer
+758738520420655105|20160728145854|@Shusky2812|@QuadPiece Now I hope @NVIDIA_DE accept custom cards as well|v=6.38,a=5.02,d=5.24,hit=2,key=hope-custom
+758738264178032644|20160728145753|@FeetNigga|@BombosMedallion @CartridgeGames @CoffeeWithGames Nvidia is wasting money on making 20nm chips (no volume savings) and they sell less|v=7.59,a=5.7,d=6.25,hit=1,key=money
+758737097075281921|20160728145315|@Mazdoff|Nvidia has settled on GTX 970 VRAM Lawsuit, $30 per Card for people who bought it. Maybe next time they won't be so sneaky with advertising.|v=6.41,a=5.38,d=5.42,hit=2,key=people-time
+758726733243703297|20160728141204|@TheAkwardSloth|good news, a good friend of mine is giving me their nvidia 760ti for $25 cause its used.........PRAISE|v=7.57,a=5.54,d=6.53,hit=3,key=good-good-friend
+758726260419915776|20160728141011|@johnd0p3|I can use that Nvidia money to buy Deus Ex.|v=7.59,a=5.7,d=6.25,hit=1,key=money
+758725390500233216|20160728140644|@Hodgedogs|@TheDudelino @NoMansSky Can we turn off some hud elements in the game ? and will Nvidia's Ansel photo tool come when the game releases (PC)|v=6.2,a=5.27,d=5.69,hit=3,key=game-tool-game
+758721184108277760|20160728135001|@vasarru|i havent updated my nvidia drivers since That One Incident they had half a year ago which messed up my computer lmaaaaaaaaaaaaaaaaaaaaaao|v=6.24,a=4.75,d=5.29,hit=1,key=computer
+758717720334589952|20160728133615|@HRBDesigns|@MlabMC for when you unbox- get nvidia shadowplay so you can save the past 10 minutes :D|v=6.45,a=4.95,d=6,hit=1,key=save
+758713926498545664|20160728132110|@RichardOshey|What we're missing in the NX news is that Nintendo will potentially have access to Nvidia's support/driver development team. That's BIG.|v=5.3,a=5.17,d=4.6,hit=1,key=news
+758708135267672065|20160728125810|@marko_j_aho|Jus experienced great VR visualization of construction site point clouds at #SIGGRAPH2016 by nVidia #VRready|v=6.18,a=3.3,d=5.22,hit=1,key=clouds
+758708100077490176|20160728125801|@Comp_Refurb|#nvidia #Orderof10  Challenge 2: Complete :) Very easy to overthink it . #follow for #tips|v=7.1,a=4.48,d=7,hit=1,key=easy
+758708083849830400|20160728125757|@alexjc|@EnigmaDeus Get the NVIDIA graphics card with the most memory you can afford then. Linux much easier to setup, works out-of-the-box.|v=6.62,a=5.42,d=5.11,hit=1,key=memory
+758702276118740992|20160728123453|@hussien11|@dreamahm "Nvidia team was told to get a console win or "go home." Enter Nintendo,  who apparently made off very well in this deal."|v=8.38,a=7.72,d=7.39,hit=1,key=win
+758699434997846016|20160728122335|@nonsolohobby|PC modded builds by Simple Modz presentati al NVIDIA Australia & New Zealand NFAN event in Sydney|v=6.21,a=5.1,d=5.52,hit=1,key=event
+758699046366130180|20160728122203|@YTPocketGaming|my Nvidia Shield didn't ship yet... . but i did get my controller/charger/streamer service|v=5.55,a=4.38,d=5.12,hit=1,key=ship
+758698933015105536|20160728122136|@Syferz|@SMetaldave64 @sidelines_wings it's a custom chip by Nvidia and Nintendo per LCGeek™|v=5.85,a=4.66,d=5,hit=1,key=custom
+758698744430923776|20160728122051|@fbettag|@Z0vsky @FiLiS the nvidia readmes are really good ;) hint|v=7.47,a=5.43,d=6.41,hit=1,key=good
+758698181693739008|20160728121837|@sidelines_wings|@Syferz @SMetaldave64 why would if something is amd or nvidia mean anything, its a game console for god sakes|v=7.69,a=5.92,d=5.77,hit=2,key=game-god
+758697597494099969|20160728121617|@Syferz|@ColdBlooder @SMetaldave64 custom chip heavily worked on by Nvidia and Nintendo. My guess is pascal considering the delay.|v=5.85,a=4.66,d=5,hit=1,key=custom
+758694397085188096|20160728120334|@seven5three|(Example: Doom BFG on Nvidia Shield TV runs at 1080p & 60fps. Doom BFG on PS3 ran in 720p & struggled to hit 60fps.)|v=4.33,a=5.73,d=4.88,hit=1,key=hit
+758694092855443456|20160728120222|@wetafx|#SIGGRAPH2016   ICYMI, today you can hear Matt Aitken present Independence Day: Resurgence - Killer Queen, 10.30am at the NVIDIA booth.|v=4.06,a=6.65,d=5.36,hit=2,key=present-killer
+758690756689326081|20160728114906|@seven5three|Now, give the Nvidia Shield Tablet physical controls and add a SD slot for game "carts". 1080p handheld gaming + the ability to play on TV.|v=6.98,a=5.89,d=5.7,hit=1,key=game
+758690610274590720|20160728114831|@StuR328|@ratchet34321 well, as you are finding out, an nvidia release time does not necessarily mean an availability time|v=5.31,a=4.64,d=4.63,hit=2,key=time-time
+758690164990500864|20160728114645|@myron_dk|@B1810Chris hey Chris! What is the best kodi box on the market today? Been hearing a lot about Nvidia Shield but $300 seems steep|v=5.66,a=4.12,d=5.27,hit=1,key=market
+758687049918668804|20160728113423|@curbles|@seven5three thing abt Nvidia tablet is that it serves PC market & doesn't have Nintendo games on it. I think we have to draw the line there|v=5.66,a=4.12,d=5.27,hit=1,key=market
+758678867389341696|20160728110152|@alexgonzalo21|@YTPocketGaming NVIDIA TABLET it has good quality|v=6.89,a=4.89,d=5.98,hit=2,key=good-quality
+758676929973194752|20160728105410|@LV54Spacemonkey|Getting over 200fps with this nvidia 1070. Good old well optimised game.|v=7.47,a=5.43,d=6.41,hit=1,key=good
+758675080863883264|20160728104649|@Myth_Party|@baileyJGaming nvidia shadow play|v=4.35,a=4.3,d=4.19,hit=1,key=shadow
+758669333103083521|20160728102359|@JoshYTsui|@ChrisA9 @igamebank debating on that or Nvidia. Been eyeing Nvidia for ages and feel like an idiot for not jumping in sooner|v=3.16,a=4.21,d=3.18,hit=1,key=idiot
+758667324299829249|20160728101600|@coyotedancer|@MikkiRMD Some stuff I run is probably not Win 10 compatible, and there have been problems with ASUS MBs and NVidia GPUs.|v=8.38,a=7.72,d=7.39,hit=1,key=win
+758651387022630912|20160728091240|@BlenderDiplom|@3pointedit yes, 2.77a is capable of that, but only with nvidia cards|v=7.16,a=5.08,d=6.47,hit=1,key=capable
+758647061545881600|20160728085529|@Xpowaspa|@MechaGS It's sounding like a tablet / nvidia shield hybrid, but I feel how they'll market it will determine it's reaction|v=5.66,a=4.12,d=5.27,hit=1,key=market
+758643713719562240|20160728084210|@MechaGS|I'd imagine that Nvidia Tegra 2 is the final aim and that will make it considerably more powerful than Wii U but nowhere near the PS4.|v=7.1,a=5.91,d=7.12,hit=2,key=imagine-powerful
+758642685217480705|20160728083805|@MechaGS|If true, the Nintendo NX will be a hybrid portable console, powered by Nvidia's Tegra mobile chipset making it as powerful as an X360.|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+758638592788955136|20160728082150|@UNITiD|Building a Powerhouse for the #HTCVive with #gtx1070 from #nvidia. Looking forward to go real VR!|v=5.29,a=3.92,d=5.25,hit=1,key=building
+758637634918940673|20160728081801|@limbclock|@bonzrat @retroremakes THE DEVIL DEMANDS YOU USE NVIDIA CARDS!|v=2.21,a=6.07,d=5.35,hit=1,key=devil
+758637474675625984|20160728081723|@hamko_F1|@xMattyG If your GPU is Nvidia get Shadowplay and if it is AMD then get Raptr, they are both free and work like an absolute charm|v=7.58,a=5.16,d=5.95,hit=2,key=free-charm
+758635660999819265|20160728081011|@AdmiralClayton|@OStuffPlus if only 24" then 144hz. For 4k you want over 35" and a good GPU. Fot 144hz Try to get gsync (Nvidia) or free sync (AMD).|v=7.89,a=5.29,d=6.38,hit=2,key=good-free
+758631269995544576|20160728075244|@forek44|@iKiWYs aka works good only on nvidia cards?|v=7.47,a=5.43,d=6.41,hit=1,key=good
+758627847351197696|20160728073908|@JayGamesOnThePC|@Hexen525 @cryengine @DS6_Prophet I have a 480 its just the old nvidia one with the 1.5gb of vram and a free toaster ;)|v=8.26,a=5.15,d=6.35,hit=1,key=free
+758626783877013504|20160728073454|@GameMoreValve|@Fallout When are you guys going to fix the problem where overclocked nvidia(and maybe AMD) GPUs crash with Fallout 4?|v=2.31,a=6.95,d=3.44,hit=1,key=crash
+758616612421312516|20160728065429|@cyrusmartin|Im selling a computer and also my nvidia gtx 770. Moving. I figured I should post here too.|v=6.24,a=4.75,d=5.29,hit=1,key=computer
+758600818568335360|20160728055143|@Blockyyyy|@DanMcpe @xDarkAbsolute I'm sorry what? You told people ace stole an Nvidia shield from a taxi man  😂😂😂|v=6.52,a=5,d=5.63,hit=4,key=people-ace-taxi-man
+758600786091843584|20160728055136|@DecanusRex|I'd like to know what're the best free game emulators ? Nvidia Shield Console @KodiCommunity @KodiTips @kodi_mad @KodiTV @xbmc_tv|v=7.75,a=5.57,d=5.96,hit=2,key=free-game
+758586799908413440|20160728045601|@jm_pask|@officialpes Hi, is there any plan to play, in the future, PES on Nvidia Shield TV as native android game or Geforce Now subscription? THX|v=6.98,a=5.89,d=5.7,hit=1,key=game
+758584497004802048|20160728044652|@MobelyDK|@Xizta_ 71c is nothing to worry about imo.  pretty sure its below factory limit. my 770s max temps are 98c according to the nvidia site.|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+758581335862550528|20160728043418|@vgcDarkWolffe|Oh I see. NVIDIA dropped their old encoding libraries in favor of NVENC, and Sony didn't pick up the ball after that.. . Oh well I guess|v=6.46,a=4.54,d=5.67,hit=1,key=favor
+758578864440213505|20160728042429|@SilverSparx|@JayzTwoCents @Dimitry49 @foreverakyle just use DDU to wipe drivers in safe mode everytime you switch between AMD and Nvidia cards.|v=7.07,a=3.86,d=5.81,hit=1,key=safe
+758573289857912832|20160728040220|@Shankovich|#nvidia Tegra is the very definition of failure, they must have sold them dirt cheap to #Nintendo|v=4.17,a=3.76,d=4.83,hit=1,key=dirt
+758566893074669568|20160728033655|@mckeenziiee|@Play_Your_Turn delayed the console from holiday 2016 to March 2017. Maybe NX Will have the stronger/brand new Nvidia tech|v=5.08,a=6.07,d=4.9,hit=2,key=delayed-holiday
+758566383143817216|20160728033453|@mckeenziiee|@Play_Your_Turn Nvidia are working on a second chip to the one the NX dev kit's were supposedly testing. The second ship releases in May and|v=5.55,a=4.38,d=5.12,hit=1,key=ship
+758561699603492864|20160728031617|@DotFromSoCal|And the rumors say it runs on a slightly upgraded Nvidia Tegra chip, meaning, power wise, it's a HANDHELD NEAR XBOX ONE POWER|v=6.54,a=6.67,d=7.28,hit=2,key=power-power
+758525415539544064|20160728005206|@CaineYanko|@dangeredwolf Well in Germany the 1070 Custom edition from Asus costs 600€ and the Founders edition from nvidia 475€. :(|v=5.85,a=4.66,d=5,hit=1,key=custom
+758505811316449280|20160727233412|@sup_jcub|@mcrpz most of what i know is in relation to gaming, but the new NVIDIA 1060 is supposed to be really really good and a pretty fair price|v=7.62,a=5.77,d=5.95,hit=2,key=good-pretty
+758497019266596864|20160727225916|@345triangle|@sprsk @gypsyOtoko i find it very hard to believe they'd use nvidia and not at least go AOSP for the OS. no reason not to|v=5.22,a=5.12,d=5.59,hit=1,key=hard
+758489366008176640|20160727222851|@banzaimedia|Looks like AMD will gimp the RX 470's memory bandwidth. Might just drop the $250 for a Nvidia GTX 1060. The RX 480 is too power hungry...|v=6.59,a=6.1,d=6.14,hit=2,key=memory-power
+758485621476163584|20160727221358|@BalrogGameRoom|I forgot how much of a pain it is to make videos lmao. . CAMERA BATTERY IS DEAD, ELGATO NEEDS TO UPDATE, ADOBE HAS UPDATES, NVIDIA UPDATES|v=2.13,a=6.5,d=3.71,hit=1,key=pain
+758473101432598529|20160727212413|@NWPlayer123|@Screvvy not exactly, I'm pretty sure the NVIDIA Shield streams to a PC still, it's not entirely contained|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+758466289107030016|20160727205709|@EnglessGameplay|@sodum9876 Nvidia Shield does all the quality bb. 60 FPs and 1080P while playing so it's smooth in Editing. But I choose "1080P HD"|v=6.41,a=4.67,d=5.4,hit=2,key=quality-smooth
+758452231326740481|20160727200117|@ZULU_MIDNIGHT|All because I discovered that you could change which programs used the GPU with the Nvidia control panel.  Silly me...|v=7.41,a=5.88,d=6,hit=1,key=silly

@@ -1,0 +1,189 @@
+758089515156189184|20160726195959|@murphstahoe|@suldrew also finally someplace to go get food outside of Nvidia cafe|v=7.65,a=5.92,d=6.18,hit=1,key=food
+758087270796660736|20160726195104|@Astro_Hanso|@hoaxie I love when people think "small business" means their little shop. It means companies like Nvidia.|v=8.31,a=6.13,d=6.57,hit=2,key=love-people
+758085927931478017|20160726194544|@Saeedadil0Saeed|@NVIDIA_ME Dark souls III|v=4.71,a=4.28,d=4.84,hit=1,key=dark
+758085095769059328|20160726194226|@ggx2ac|I don't care much about the NX docking station. It's only a binomial chance that does something like the Windows dock w/an Nvidia GPU in it.|v=6.02,a=5.38,d=4.64,hit=1,key=chance
+758079047620362241|20160726191824|@PK_PDX|@mandopony the thing that really gets me is that they’re using the Nvidia Tengra chip, which is horrendously ineffecient wrt power|v=6.54,a=6.67,d=7.28,hit=1,key=power
+758078133895430144|20160726191446|@Michael15299|@Jauffers that Nvidia utility is garbage, never trust the settings it gives you. also, cutting my draw distance from 10 to 5 improved my fps|v=6.68,a=5.3,d=6.61,hit=1,key=trust
+758077228756467717|20160726191110|@Xolress|So, all my editing softwares don't work because of this nvidia error and I cant find any videos to fix it and I asked my family to take my-|v=7.65,a=4.8,d=6,hit=1,key=family
+758076889143451648|20160726190949|@dantarion|I JUST WANT TO BUY A 1060 NVIDIA TAKE MY MONEY PLS|v=7.59,a=5.7,d=6.25,hit=1,key=money
+758076075113086980|20160726190635|@adcdx|Nvidia K1, 2GB ram, 720p screen in a plastic shell can be priced under $200 and still have profit. Also it's in similar power to the Wii U|v=6.54,a=6.67,d=7.28,hit=1,key=power
+758075130035646464|20160726190250|@hidamari_ebooks|don't hate my nvidia or I'll set your house on fire with it|v=4.26,a=6.26,d=5.27,hit=3,key=hate-house-fire
+758073402326413313|20160726185558|@nvidia|@briankorteweg Congrats Brian! You've won an Iray plug-in for a year for free in our #VRready contest! DM us your info please. #SIGGRAPH2016|v=8.26,a=5.15,d=6.35,hit=1,key=free
+758070130488315904|20160726184258|@linocarreira70|@KunosStefano OMG happy bunny here :) and i imagine you still didnt try the new stuff from Nvidia regarding multiple screens ? :)|v=7.54,a=5.52,d=6.24,hit=3,key=happy-bunny-imagine
+758069806478266369|20160726184140|@RRRRodgA|@jose_otero @johntv To be fair, when you consider the Nvidia Shield and it's cost with Terga there's a good chance this could hit $250-299|v=6.19,a=5.53,d=5.29,hit=3,key=good-chance-hit
+758066746402148353|20160726182931|@DatingRev|@DoYouQA If I end up building a rig, I can't stomach a card past the Nvidia gtx 1060. The price is sending me over the deep end.|v=5.12,a=3.92,d=4.99,hit=2,key=building-stomach
+758066051842183168|20160726182645|@nemof|also if the nx is the nvidia tegra with an arm chip then you could potentially get android vm/games running on it.|v=5.34,a=3.59,d=5.07,hit=1,key=arm
+758065228303040512|20160726182329|@JBowdacious|I’m selling two Nvidia Titan X graphics cards. $550 + shipping for each card. Killer for content creation or Gaming|v=1.89,a=7.86,d=4.54,hit=1,key=killer
+758064717009149953|20160726182127|@Alcoholikaust|@jwilliamsona47 probably not as good as a Nvidia shield|v=7.47,a=5.43,d=6.41,hit=1,key=good
+758062806285574144|20160726181351|@LateNerd|@Logan_RTW Do you think you can benchmark Nvidia Quadro P6000 for 4K gaming and how would it stand up to ruthless game engines?|v=6.98,a=5.89,d=5.7,hit=1,key=game
+758062774656303104|20160726181344|@icouponclick|MSI Nvidia Geforce GTX 1070 Graphics Card - Black (Gaming X 8G GDDR5, 2 Fan, PCI Express 3) £422.98  Amazon  #deals|v=5.39,a=4.61,d=5.14,hit=1,key=black
+758062703143366656|20160726181327|@ajm113|Anyone know a good 64bit #linux friendly laptop with good #Nvidia GPU?|v=7.86,a=5.33,d=6.26,hit=3,key=good-friendly-good
+758060218513297410|20160726180334|@Nipple_Foliage|@HardwareUnboxed Is the myth that AMD GPU's get better over time whilst NVidia get worse true?|v=5.31,a=4.64,d=4.63,hit=1,key=time
+758057383163723776|20160726175218|@scottmichaud|@TimSweeneyEpic Btw: was working on GPU-accelerated audio for a couple years. Now that NVIDIA is doing VRWorks Audio, have some thoughts.|v=7.41,a=6.39,d=6.02,hit=1,key=couple
+758054092929376256|20160726173914|@robbiecarman|@joeydanna well I'd say Nvidia - the Ford parts are far more messy|v=3.15,a=3.34,d=4.75,hit=1,key=messy
+758053710354259968|20160726173743|@neutyp|I bet they’ve been planning this for a while and building Breath of the Wild on both systems. . . Nvidia Tegra X1 is faster than the Wii U|v=5.29,a=3.92,d=5.25,hit=1,key=building
+758052591594934272|20160726173316|@brooksoid|Nvidia are flying a drone over the site of their new headquarters and lidar scanning it in order to build a time lapse #Siggraph2016|v=5.31,a=4.64,d=4.63,hit=1,key=time
+758048886086832129|20160726171832|@AlphaFoxWarfare|I think it would be smart for Sony to get in bed with Intel and Nvidia for the PS5 instead of AMD.|v=7.51,a=3.61,d=6.88,hit=1,key=bed
+758047737103384577|20160726171359|@SoleSurviv0r|@Jauffers I'm actually thinking that nvidia set the bar themselves with the 'founders edition', so if nvidia can sell it for 100 more then..|v=6.42,a=5,d=5.47,hit=1,key=bar
+758047599928614912|20160726171326|@nvidia|@reallyvr Congrats! You just won an Iray plug-in for a year for free in our #VRready contest! DM us your info please. #SIGGRAPH2016|v=8.26,a=5.15,d=6.35,hit=1,key=free
+758046354954395648|20160726170829|@AlphaFoxWarfare|@mnmgaming2 @blast4620 @Kazwarrior_1 it'll be $500 tops, Nvidia will have a 1170 by then which will be powerful and cheap to throw in there.|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+758046146338156544|20160726170739|@bitdril|>Scottish festival in Florida and own an NVIDIA GPU or an Intel CPU, be wary of a man named "Drybones"|v=6.73,a=5.24,d=5.53,hit=1,key=man
+758045518593273856|20160726170510|@Tentaclemoose|@FintieLLC Hey I love my fintie case for the nvidia k1, but i can't find a replacement in light blue that doesn't have the pen cutout. Help!|v=8.17,a=5.15,d=6.21,hit=2,key=love-blue
+758044761915740160|20160726170209|@SMetaldave64|@HyrulianXavi Except Nvidia is using Parker for Cars, automotive industry GPU's, they even said so themselves. No SOC design wins for gaming|v=5.3,a=4.47,d=4.91,hit=1,key=industry
+758043829794660354|20160726165827|@chrisjhebert|@GuyMilsom Yeah, I'm often up that way. Nearest NVIDIA office is in Bristol.|v=5.24,a=4.08,d=5.59,hit=1,key=office
+758043670838972421|20160726165749|@kyriscrass|Compounded with the former rumors that it's running a Nvidia Tegra, it could potentially be a Wii U-level powerhouse you can play on the bus|v=4.51,a=3.55,d=4.84,hit=1,key=bus
+758042921153298432|20160726165450|@PonPonSmite|@SerialSeraph It's more then on Nvidia to fix it in future driver updates, which they have a strong track record of doing.|v=7.11,a=5.92,d=6.92,hit=1,key=strong
+758041581278621696|20160726164931|@Gamer1Mack|@JamieMoranUK Lol! You pretty much did! But Charles actually hammered it down to the Tegra chips and cited NVIDIA which totally bucked...|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+758041525557268480|20160726164918|@bigfranky75|@ArcadeGirl64 @WesWarlord agree 100%...if it is, in fact, Nvidia Tegra X1, then anything over $199 puts this thing in trouble IMHO. #NX|v=3.03,a=6.85,d=4.85,hit=1,key=trouble
+758040760738471936|20160726164615|@thegeekninja|nVidia's most powerful mobile gaming processor on the Nintendo NX. That is going to be a veeeeery portable console.|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+758039838339792896|20160726164235|@RogierDikkes|Imagine the potential: Nvidia's GameStream, Steam and Nintendo teaming up to the new 'NX' console. It would be amazing!|v=7.32,a=5.98,d=7.07,hit=1,key=imagine
+758039825492676608|20160726164232|@tkbryant74|@GLA1984 I have the Nvidia Android TV & it runs amazingly well. With more RAM it will make a killer handheld & a competent console.|v=1.89,a=7.86,d=4.54,hit=1,key=killer
+758039021398462464|20160726163921|@CerebrumTV|@Foxdroplol @SkinSpotlights @EdgeTalks there should be an option in the nvidia control center that allows you to turn "sterescopic 3d" off.|v=6.49,a=4.74,d=6.34,hit=1,key=option
+758034472822382592|20160726162116|@jactorrez|@TeslaAgnostic They will most likely sign a deal with Nvidia. Elon's been looking at their self-driving car tech for about a year or so.|v=7.73,a=6.24,d=6.98,hit=1,key=car
+758034467382374400|20160726162115|@Ms_DT_Flip|This is the first time I've had an Nvidia gpu in my desktop. Hi.|v=5.31,a=4.64,d=4.63,hit=1,key=time
+758029915593723904|20160726160310|@winsmartphonesW|Nvidia, not AMD, will power the Nintendo NX  #win #smartphone|v=6.54,a=6.67,d=7.28,hit=1,key=power
+758028417799520256|20160726155712|@techupdate14|Nvidia, not AMD, will power the Nintendo NX . Nvidia, not AMD, has won the latest console from Nintendo -- and the NX's blend of handheld an…|v=6.54,a=6.67,d=7.28,hit=1,key=power
+758027342845390848|20160726155256|@Jauffers|@JayzTwoCents @xXxSlimShady @P3dr0_Th4l3s although for reasons I cannot understand, using the nVidia game settings tool yeilds higher FPS|v=5.89,a=5,d=5.68,hit=2,key=game-tool
+758027045641216000|20160726155145|@rogerclark|@Yelix i bought nvidia stock this morning based on the news. sucks about no backward compat, but ARM is the right way to go for sure|v=5.34,a=3.59,d=5.07,hit=1,key=arm
+758025220112388098|20160726154430|@degeneratesean|@masherofbuttons all headlines for me; not about to go wasting any real time on it. oh nvidia chip? neat? detachable controller? cool?|v=5.31,a=4.64,d=4.63,hit=1,key=time
+758022891753598977|20160726153515|@Nexykat|For those who missed the historical memo. Nvidia = more stable / reliable then ATI. AMD = Processors seem to run cooler then Intel. / opinion|v=6.28,a=4.89,d=5.53,hit=1,key=opinion
+758021538457067520|20160726152952|@RichardOshey|@ArcadeGirl64 There's no way Nvidia's charging Nintendo $75 per chip at their level of volume, and with Nvidia's current mobile market share|v=5.66,a=4.12,d=5.27,hit=1,key=market
+758019648222658560|20160726152222|@ION7_Toxic|I want to hope that if the NX uses Nvidia, that it will use x2 instead.|v=7.05,a=5.44,d=5.52,hit=1,key=hope
+758019453942726657|20160726152135|@Nomadskidd|@OverKillzGaming I used to be in AMD's Red Team Plus, It's weird that I'm using nVidia and Intel :P it's a new experience|v=6.41,a=5.29,d=5.78,hit=1,key=red
+758019100274728960|20160726152011|@Screvvy|@BlazeHenry1 It'll be an active fire hazard because lol nvidia|v=3.22,a=7.17,d=4.49,hit=1,key=fire
+758016382596476928|20160726150923|@StarWarrior00|@Sonaos It is also safe to assume the NX will be very much like the Nvidia Shield Portable and judging from the specs (cont.)|v=7.07,a=3.86,d=5.81,hit=1,key=safe
+758012313333014528|20160726145313|@FemmePhoenixVO|@Steph726 Nvidia's got a terrible chokehold on the market, and I hate that. Makes me feel bad for supporting them.|v=2.02,a=6.6,d=4.23,hit=2,key=terrible-hate
+758010997005320194|20160726144759|@RxiGa|@NVIDIA_ME black ops 3 zombies|v=5.39,a=4.61,d=5.14,hit=1,key=black
+758010638815879168|20160726144634|@KawlunDram|@ImMrGay I mean, what has me interested is that 3rd parties kind of know the Tegra chip. It's in the Nvidia shield and can play PC games|v=7.59,a=4.46,d=5.95,hit=1,key=kind
+758008904366206976|20160726143940|@TheDaniel9|@Yelix Only if Nvidia sees any future in their ARM chips. It's likelier to run on a customized x1 chip.|v=5.34,a=3.59,d=5.07,hit=1,key=arm
+758008205838516225|20160726143654|@bodybod2|@NVIDIA_ME Dark Souls 3|v=4.71,a=4.28,d=4.84,hit=1,key=dark
+758007960756953088|20160726143555|@Exclemator|I found my note from 3 months ago reminding me to invest in Nvidia. Guess who lost out on making ~100%. Never forget to remember folks.|v=4.27,a=5.46,d=4.24,hit=2,key=invest-lost
+758003022312173568|20160726141618|@JimmyOnFire__|The NX we have now is stupid (X1) and backwards (cartridges?). Ppl don't want to plug crappy portables (WiiU) into a screen (nvidia shield)|v=2.31,a=4.72,d=2.98,hit=1,key=stupid
+758002825444065281|20160726141531|@CZECKofficial|@pcgamer Ok i have only i7-6700HQ Nvidia GT940MX but this is so nice :D|v=6.55,a=4.38,d=5.58,hit=1,key=nice
+758002686314905600|20160726141458|@DrShockerMC|Wait lol so 4way SLI is dead ?!?!  How did I not know this before today . what is Nvidia doing ?!?! @NVIDIAGeForce @EVGA_JacobF @evgagaming|v=1.94,a=5.73,d=2.84,hit=1,key=dead
+758001826155356160|20160726141133|@Nesswardboi|So the Nvidia tech used for the NX controller could be Xbox One power level. Kinda disappointed in that I expected Ps4 levels of power|v=6.54,a=6.67,d=7.28,hit=2,key=power-power
+758000434644746241|20160726140601|@CDUB901|@tvandlust hope them saying the Nvidia Tegra X1 is just a place holder for the X2 is legit.|v=7.05,a=5.44,d=5.52,hit=1,key=hope
+757999393698111489|20160726140153|@BoboFyfe|Just bought the Nvidia Shield TV to use as an Android box. Let's hope it's worth the money!!|v=7.05,a=5.44,d=5.52,hit=1,key=hope
+757998946312556544|20160726140006|@timwilsie|@gamespite @USgamernet Plus: ARM would unite the DS platform with the NX + Nvidia would have a volume console partner again. Logical.|v=5.34,a=3.59,d=5.07,hit=1,key=arm
+757998710789840896|20160726135910|@AlphaYato|NVIDIA Tegra is definitely powerful for handhelds, probably more powerful than the Vita (!) but not consoles!|v=6.84,a=5.83,d=7.19,hit=2,key=powerful-powerful
+757998571274678273|20160726135836|@AlphaYato|@AlphaYato with consoles. With NVIDIA Tegra, being more powerful than even the Wii U sounds unlikely.|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757997475336708096|20160726135415|@wtfkncc|@Aniki0087 huge market yes, but there is no such thing as the future, I mean nvidia still making graphics cards!|v=5.66,a=4.12,d=5.27,hit=1,key=market
+757997151951749120|20160726135258|@KawlunDram|@ImMrGay there's always a possibility of Nintendo/Nvidia teaming up to make a new one in secret but I wonder just how much potential it has|v=6.03,a=5,d=5.32,hit=1,key=wonder
+757996306958811137|20160726134937|@reidstick|Do you ever fucking hate NVidia|v=2.12,a=6.95,d=5.05,hit=1,key=hate
+757993169044721664|20160726133708|@AlphaYato|I'm pretty sure the NVIDIA Tegra was used in that one handheld NVIDIA made that could run Half-Life 2 so that's cool|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+757993064417800192|20160726133644|@Laughing_Mantis|@FioraAeterna @eurogamer this as well as the upcoming FCC leak of the new Nvidia Shield make me wonder if it's a Tegra X2 chip.|v=6.03,a=5,d=5.32,hit=1,key=wonder
+757992480138723328|20160726133424|@Z1RO_|@TheSpaceKing24 "powerful" it's going to be powered by Nvidia Tegra processor which can barely run Half Life 2 at 60 fps.|v=7.27,a=6.02,d=5.72,hit=1,key=life
+757991113953202176|20160726132859|@KeithPlaysPC|Does anyone know if the Thermaltake Green RIING fans match the Nvidia Green on their cards? @DarthBeavis1 @punx223|v=6.18,a=4.28,d=4.82,hit=2,key=green-green
+757987174855966720|20160726131319|@EoftheDead|@mistermegative NX is a Super handheld using Nvidia tegra, Detachable controllers, Plugs into TV when not mobile. Uses game cartridges|v=6.98,a=5.89,d=5.7,hit=1,key=game
+757985628374138880|20160726130711|@Ratopoika|@Iltapalanyymi 8k gaming for just 10k money, way to go amd! Nvidia probably just steals this idea if it proves to be good... :(|v=7,a=5.86,d=6.26,hit=1,key=idea
+757985522954436608|20160726130646|@m0mentring|(i imagine it's nvidia driver fuckery)|v=7.32,a=5.98,d=7.07,hit=1,key=imagine
+757984008751898624|20160726130045|@Luma__________|"Nvidia Tegra processor" and into the trash this leak goes|v=2.67,a=4.16,d=5.24,hit=1,key=trash
+757981726262063104|20160726125140|@SoonyXboneUhh|@ZhugeEX with the rumored Nvidia chip in the Nintendo NX, the AMD semicustom design win for q3 this year is even more likely PS4 Neo, now...|v=8.38,a=7.72,d=7.39,hit=1,key=win
+757981010537639936|20160726124850|@MemoriesIn8Bit|@blankslatejoe Just read a new German news article on the NX describing it as a mix between 3DS and Nvidia Shield. I LIKE THAT.|v=5.3,a=5.17,d=4.6,hit=1,key=news
+757980865301446656|20160726124815|@joewilcoxson|BSD Xorg Nvidia drivers work great once installed. Gnome3 GUI looks pretty good when customized a bit.|v=7.62,a=5.77,d=5.95,hit=2,key=pretty-good
+757980294104375296|20160726124559|@mattybuk|@Chris_Dring Carts? Nvidia Tegra? I hope those bits arent true.|v=7.05,a=5.44,d=5.52,hit=1,key=hope
+757978023844904961|20160726123658|@Chris_Utah3DS|The Nintendo NX. . Now you're playing with power; NVIDIA POWER!. . You're parents help you hook it up to a TV, attach controllers, butter your t|v=5.33,a=3.17,d=4.67,hit=1,key=butter
+757977919373225986|20160726123633|@FrodusTweets|@Gothalion @nvidiashield that's cool? (Seriously, what is it good for? I really want to rationalize nvidia shield)|v=7.47,a=5.43,d=6.41,hit=1,key=good
+757977182287327232|20160726123337|@_psonice|@LiaSae Nvidia’s marketing never lack imagination :D The Tegra 1 was marketed as “7 core”. 1 CPU core, power management, network, …|v=6.54,a=6.67,d=7.28,hit=1,key=power
+757974907741495297|20160726122435|@spattzzz|@ZeldaInformer NVidia X chipset does see like the dev name is plausable.|v=5.55,a=4.25,d=5.16,hit=1,key=name
+757972160120025088|20160726121340|@pleasedtomeetya|@Romudeth @The_CSJR @tordavis @blaackstarr if NX uses ARM & Nvidia then AAA ports (of crappybuggybroken trash like AssCreed 8) should b easy|v=4.82,a=4.06,d=5.77,hit=3,key=arm-trash-easy
+757970996209016832|20160726120902|@hussien11|@TrueGaming Nintendo NX seems amazing to me. a hybrid device with ARM architecture and Nvidia Tegra X1 chip.|v=5.34,a=3.59,d=5.07,hit=1,key=arm
+757970992987643904|20160726120901|@joeharris76|After tweeting this I noticed that NVidia is an investor in MapD (@datarefined). I wonder if they even support AMD GPUs at all?|v=6.03,a=5,d=5.32,hit=1,key=wonder
+757969963906981888|20160726120456|@nohllhote|nintendo nx reaction:. . on nvidia tegra: seems likely, nintendo did a soft confirm, pretty good. detachable controllers: nintendo said nothing|v=7.44,a=5.39,d=5.76,hit=2,key=soft-pretty
+757968532646789121|20160726115915|@TheMysticWolf|and NVIDIA? I really want to see how this comes out, I am extremely curious|v=6.08,a=5.82,d=5.42,hit=1,key=curious
+757968310973718528|20160726115822|@YannickToneyArt|@DragonAirazel for years they've been powered by IBM, so it's just different that they've chosen Nvidia for their processing power this time|v=5.9,a=5.85,d=5.92,hit=2,key=power-time
+757967936472645633|20160726115653|@londongaymers|@AverageNerd23 @JJDodders the nVidia chip is pretty good by all accounts!|v=7.62,a=5.77,d=5.95,hit=2,key=pretty-good
+757966314132611072|20160726115026|@TheDazeel|So is the NX pretty much a Nvidia Shield by the sounds of it?|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+757965808647757824|20160726114825|@ItsPrism_|And now he has some idea that he is going to get sponsored by Nvidia, wth|v=7,a=5.86,d=6.26,hit=1,key=idea
+757964584120614912|20160726114333|@TheSlySoul|@Nash076 I am curious if Nvidia is gonna take the loss because they want to prove that Tegra is worth buying into?|v=6.08,a=5.82,d=5.42,hit=1,key=curious
+757964499819298816|20160726114313|@bluefootedtweet|@miss_mariii My question is, if it's meant to have a handheld... will it be less powerful than the Wii U? Basing this on the Nvidia Shield.|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757964476691861504|20160726114308|@Tiapriestess|@Drothvader Yeah, it looks like nVidia needs to iron out some performance issues there.|v=4.9,a=3.76,d=5.1,hit=1,key=iron
+757962376465424386|20160726113447|@Nash076|To give you an idea on possible Nintendo NX pricing:. . The Tegra-based Nvidia Shield TV starts at $200.|v=7,a=5.86,d=6.26,hit=1,key=idea
+757960630431199234|20160726112751|@Nash076|In terms of power, an Nvidia Tegra device is a tinker toy compared to the PS Neo and XBox Scorpio.|v=7,a=5.11,d=6.09,hit=1,key=toy
+757959945853820928|20160726112507|@triqona|@Allisionari it's nvidia tegra allegedly so yes, might be marginally more powerful than Wii U|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757959714537742336|20160726112412|@GameBloc|So the #NX may have a Nvidia Tegra inside of it. At first I was skeptical, but read up on the the Tegra X1, it's pretty impressive!!|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+757957766837403649|20160726111628|@GaskinEvan|@Jack_Septic_Eye plz can play a game called(nvidia flex techdemo)its a game were you can change the size,gravity, turn bunnys into slime 😂😂|v=5.38,a=5.73,d=5.22,hit=3,key=game-game-slime
+757956997731979264|20160726111325|@locus2k1|@APZonerunner also, if controller detaches could we see nvidia VR head mount coming too I wonder|v=6.03,a=5,d=5.32,hit=1,key=wonder
+757956182862598145|20160726111010|@robin_van_ee|@britishgaming The Tegra X1 might actually be more powerful in some aspects. According to Nvidia it is anyway.|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757955787432009728|20160726110836|@tiny_tanuki|@omegaro Nvidia's tegra mobile chips are pretty great. I believe their tablet can run borderlands the presequel just fine on it!|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+757954810511372288|20160726110443|@TimRuppen41|The nx reportedly is going to use a nvidia tegra processor... I hope they know what they are doing|v=7.05,a=5.44,d=5.52,hit=1,key=hope
+757954061857501184|20160726110145|@anti_killy|People freaking out about NX "NVIDIA Tegra" rumours forgetting that #Nintendo loves going offroad, lagging behind or not|v=7.33,a=5.94,d=6.14,hit=1,key=people
+757953511657267200|20160726105933|@M_Stanley|@britishgaming Or maybe it would be as simple as a higher clock speed for nvidia chip when plugged in to power source?|v=5.71,a=5.55,d=5.86,hit=2,key=clock-power
+757952349725876225|20160726105456|@Capsulejay|@ZhugeEX Seeing as this uses nvidia chips, I wonder what all the new business AMD has been taking about is for? Just for Neo/Scorpio?|v=6.03,a=5,d=5.32,hit=1,key=wonder
+757950848479756288|20160726104858|@psiwindftw|@davyb0t its a currently unreleased chipset from NVIDIA, and the Tegra X1 is already pretty powerful|v=7.38,a=5.94,d=6.24,hit=2,key=pretty-powerful
+757950569059319808|20160726104752|@PeterJeffery7|@Bazzaqpr1969 Nvidia Shield TV. Kodi runs like a dream 😍|v=6.73,a=4.53,d=5.53,hit=1,key=dream
+757948853740040192|20160726104103|@SrslyFjornGG|NVIDIA Titan X with no HBM2? 12gb GDDR5X and it's 1200$?? Hell naw boyz. . GG WP #MakeNVIDIAGreatAgain|v=2.24,a=5.38,d=3.24,hit=1,key=hell
+757947707491282944|20160726103630|@iJamm3r|NX will have Nvidia's mobile processor Tegra. This standard Tegra is about .0365 Teraflops. It's in between Wii U & X1's current power|v=6.54,a=6.67,d=7.28,hit=1,key=power
+757947192690741248|20160726103427|@MayaPosch|The Nintendo NX using cartridges makes me happy. NVidia Tegra… not sure. At least it’ll be more powerful than the Wii U?|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757945222064173057|20160726102637|@nigrhyl|@AlanAlanconway yeah I paid £47. Nvidia shield the best but too dear. Happy with this though.|v=8.21,a=6.49,d=6.63,hit=1,key=happy
+757945152342204416|20160726102620|@deviantsnart|@cyberpupk yeah it sounds fishy to me too... maybe nvidia is custom making a new tegra chip for nintendo?|v=5.85,a=4.66,d=5,hit=1,key=custom
+757945031982510081|20160726102552|@djs__|...but i am very, very, VERY skeptical of the Nvidia Tegra. i feel like third-parties have already cancelled all their plans|v=4.52,a=4.91,d=4.5,hit=1,key=skeptical
+757942724062433280|20160726101641|@DCharlieJP|@ShaunMusgrave ... to people who don't have an Nvidia shield ;) that said - if they can somehow add leaderboards etc? Sold to everyone|v=7.33,a=5.94,d=6.14,hit=1,key=people
+757941963169619969|20160726101340|@Kster91|RUMOUR: Nintendo NX is a high powered handheld w/ a TV dock & detachable controllers, uses Nvidia's Tegra tech.. not as powerful as a PS4 (😉)|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757940959363624960|20160726100941|@ILikeLego|@scully1888 Shield TV over here! Very impressive device, and Nvidia is all about blowing people away right now. So I'm hopeful for new Chip|v=7.21,a=5.86,d=5.77,hit=2,key=people-hopeful
+757940682002575360|20160726100835|@NaughtyRoach|#NintendoNX sounds similar to Nvidia Shield to be honest|v=7.7,a=5.32,d=6.24,hit=1,key=honest
+757940679070941184|20160726100834|@AtheneAllen|@Wanyal Nvidia are pretty stupid so|v=5.14,a=5.44,d=4.3,hit=2,key=pretty-stupid
+757940495297413120|20160726100750|@Wanyal|@AtheneAllen you dont honestly think that nvidia would be stupid enough to get into any other cpu architecture|v=2.31,a=4.72,d=2.98,hit=1,key=stupid
+757940455359197189|20160726100741|@PressStartKofi|Nvidia Tegra X1 mobile processor, 32 GB cartridges. My God this might be a bigger flop then the Wii U.|v=8.15,a=5.95,d=5.88,hit=1,key=god
+757940376107782144|20160726100722|@scully1888|Also worth noting: I have a nVidia Shield X1 tablet & am perfectly happy with the graphics, and that's running on Android, not a bespoke OS|v=8.21,a=6.49,d=6.63,hit=1,key=happy
+757938640538443777|20160726100028|@Uberutang|Wonder if the NX will run the 'Parker' chip from Nvidia?|v=6.03,a=5,d=5.32,hit=1,key=wonder
+757938536657989634|20160726100003|@345triangle|@sprsk but that’s how nvidia laptop GPUs work by default. limited to 30fps on battery power|v=6.54,a=6.67,d=7.28,hit=1,key=power
+757937990693949441|20160726095753|@IndieKings|@gamespot I wonder what chip it will use #NVIDIA or #AMD|v=6.03,a=5,d=5.32,hit=1,key=wonder
+757936318173229056|20160726095114|@DCharlieJP|@XaterMB well, the K1/Nvidia shield tab is for sure - pretty much nailed everything up to and including Dreamcast.|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+757936316604567556|20160726095114|@PressStartKofi|"Nvidia's powerful Tegra mobile processor." Oh boy|v=6.56,a=5.17,d=6.2,hit=2,key=powerful-boy
+757936295167533057|20160726095109|@scerion|Quick way to massively extend battery life on Macbook Pro with Nvidia card: Disable hardware rendering in #Chrome ! Also don't use #Mail|v=6.93,a=6.35,d=6.2,hit=2,key=quick-life
+757936141769252864|20160726095032|@djs__|@enMTW Nvidia Tegra seems like a bad idea|v=7,a=5.86,d=6.26,hit=1,key=idea
+757935796968120320|20160726094910|@jamesadonner|@radvon Also Nvidia’s hardware will not only be stupidly powerful, but be VERY easy for development.|v=7.1,a=4.48,d=7,hit=1,key=easy
+757935422114762753|20160726094741|@psiwindftw|oh and there's also the fact that they say it uses NVIDIA. Except AMD already has that market|v=5.66,a=4.12,d=5.27,hit=1,key=market
+757934830776496128|20160726094520|@anshelsag|@kentbye Nvidia's market share is in the 90s in professional graphics. Thats why AMD kind of had those relaunch and rebrand.|v=6.39,a=4.26,d=5.56,hit=2,key=market-kind
+757934048824160256|20160726094213|@ERNGEDRANKK|The NX is coming specifically for that same market the Nvidia shield devices occupy...so I mean. I guess they want both sides?|v=5.66,a=4.12,d=5.27,hit=1,key=market
+757933968796717056|20160726094154|@VoltySquirrel|@Electivirus namely that it'll be a mobile/console hybrid with integrated removable controllers and a fairly powerful Nvidia mobile cpu|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757933908407312384|20160726094140|@ERNGEDRANKK|It's a phone processor for christ's sake. It's in the Nvidia Shield tablet handheld & home console. Why would Nvidia let Nintendo use that?|v=7.91,a=4.21,d=5.9,hit=1,key=home
+757933732993130496|20160726094058|@murciego|NX con arquitectura ARM de Nvidia. My wildest dreams came true...|v=5.34,a=3.59,d=5.07,hit=1,key=arm
+757933549693591552|20160726094014|@Qatatoism|Unless the NX will be a strong console (Stronger than Vita) but I doubt it... it has a .... Nvidia Tegra chip....ew.|v=7.11,a=5.92,d=6.92,hit=1,key=strong
+757933316133838857|20160726093918|@mbdrake76|(We replaced the entire Opteron render farm with Xeons at one point; kept Nvidia on the desktop machines)|v=5.53,a=3.9,d=5.59,hit=1,key=farm
+757932954626695168|20160726093752|@NokkonWud|@andihero nVidia shield is pretty great, but that's the only one I've seen that doesn't look cheap and awful.|v=7.75,a=6.03,d=5.5,hit=1,key=pretty
+757932145360965633|20160726093439|@RashBandicoot|@RedMakuzawa Yea except the Nvidia Tegra chip is all that promising for a home console. Unless the base gives the NX some sort of boost.|v=7.91,a=4.21,d=5.9,hit=1,key=home
+757931731315986432|20160726093301|@rs6588|The present old Ati Radeon 9600 is rated 38 and I can confirm this. The Intel HD 3000 is rated 280, and the HD 4400 to 560, as Nvidia 820M|v=6.95,a=5.12,d=5.83,hit=1,key=present
+757931584527953920|20160726093226|@marsbarrow|@Phazon4G Exactly.  I have an nVidia Shield and that little box boots games and apps faster than anything else I own... + good graphics.|v=7.47,a=5.43,d=6.41,hit=1,key=good
+757931423365996544|20160726093147|@dacostafilipe|I hope those NX rumors (Nvidia Tegra SoC) are not true … such a waste of a console :(|v=4.88,a=4.77,d=5.09,hit=2,key=hope-waste
+757931327928819712|20160726093124|@SlyCat|I'm not an Nvidia fanboy, they just make some really nice hardware which has some unique innovations :P|v=6.55,a=4.38,d=5.58,hit=1,key=nice
+757931292138803200|20160726093116|@_chrisdowns_|@Drybones5 by "this" do you mean my terrible NVidia infested life?|v=1.93,a=6.27,d=3.58,hit=1,key=terrible
+757931032251424769|20160726093014|@TheSlySoul|Tegra is also more powerful than PCPower, but below whatever Xbox One has. So it is close to Nvidia Shield power.|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757930840592486400|20160726092928|@BritPerson|@LaurakBuzz is an Nvidia Tegra a powerful enough chip do you reckon|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757930327687962624|20160726092726|@AttitudeForGain|So, for people who complain about the PS4 and Xbone's underpowered Jaguar CPU being a notebook chip, Nintendo's NX is using Nvidia Tegra...|v=7.33,a=5.94,d=6.14,hit=1,key=people
+757929618829615105|20160726092437|@robleger|@SKHoneybelle my heart jumped when there was a display driver warning, but after updating my nvidia drivers everything seems calm again.|v=7.39,a=6.34,d=5.49,hit=1,key=heart
+757928326455521280|20160726091929|@DrFrybird|@DrFrybird Also real curious how powerful games can be on a proprietary NVIDIA Tegra Architecture.|v=6.44,a=5.82,d=6.11,hit=2,key=curious-powerful
+757927752561463296|20160726091712|@Mazzle5|I can see why it's a hassel to port games from Wii U to NX. From Power PC and AMD to ARM and Nvidia|v=5.88,a=5.32,d=5.93,hit=2,key=power-arm
+757926947548762113|20160726091400|@OhNoBeardy|@ThisIsAntwon I love the NVidia AMD fanboy war. Always have. Each year it get's more hilarious.|v=8.72,a=6.44,d=7.11,hit=1,key=love
+757926397247643648|20160726091149|@Jordan_KZ|@Cube1701 @tomphillipsEG Why? nvidia are probably selling it cheap as hell to Nintendo, and an Tegra X2 is possible by Q1 next year.|v=2.24,a=5.38,d=3.24,hit=1,key=hell
+757925766659211264|20160726090919|@Eltee78641|i guess e. rogers claims of news and "not AMD" were true but. . Tegra? Nintendo NX stands for Nintendo Nvidia Shield X|v=5.3,a=5.17,d=4.6,hit=1,key=news
+757915390403948544|20160726082805|@dailyindiannews|Nvidia has announced two new professional workstation graphics cards for content creators, especially in the fields of VR and game design.|v=6.98,a=5.89,d=5.7,hit=1,key=game
+757904449901830144|20160726074436|@Faisal_Croft|Someone gift me with the Nvidia Titan X pls|v=7.77,a=6.14,d=5.52,hit=1,key=gift
+757903257377214464|20160726073952|@Mamanaja2000|Nvidia unveils most powerful GPU ever: Nvidia has unveiled two new Pascal-based Quadro graphics cards, to follow on from its fresh co...|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757901962385825796|20160726073443|@adbsideload|So since the Nexus Player has stopped production, the only other option seems to be the Nvidia Shield, which costs more than a decent TV.|v=6.49,a=4.74,d=6.34,hit=1,key=option
+757887266949693440|20160726063619|@uroxsmysox|@KodiTips Reinstalled from repo, tried on multiple devices, android phone, amazon fire stick, and nvidia shield. Def. Exodus server issues.|v=3.22,a=7.17,d=4.49,hit=1,key=fire
+757884931037093889|20160726062703|@davidfry77|@swork2703 depends on money mate. I've you want future proof, nvidia shield is quality but expensive. T8 v4 is cheaper but great too|v=6.96,a=5.02,d=5.89,hit=2,key=money-quality
+757856493127426048|20160726043402|@SarahFWilliams|#WebsiteDesign #news Nvidia just released two new GPUs, and anyone who likes a powerful new graphics card will probably pee a little ...|v=6.84,a=5.83,d=7.19,hit=1,key=powerful
+757851771846787072|20160726041517|@MarlonTurla|@Richhomiethuan zammzawg I got the nvidia dual shit sounds pretty good|v=7.62,a=5.77,d=5.95,hit=2,key=pretty-good
+757844921478897665|20160726034804|@jontheguy_|@BellularGaming shame my GPU is probably broken so I can't run it (or WoW at all for that matter) cus of nvidia driver stopped working bs|v=3.05,a=5.43,d=4.14,hit=1,key=broken
+757833178262364161|20160726030124|@EconGeist|@SirCoward @EDF_OFFICIAL Me either, only had one hard crash but that was from Nvidia gamestream shitting itself randomly, crashing the game|v=4.58,a=5.95,d=5.05,hit=3,key=hard-crash-game
+757825764033073152|20160726023156|@The_JerDude0711|Wow just found 1.5TB of uneeded Nvidia install files on one my hard drives XD Deleted them all! Woo, so much space now :D #FreeAtLast|v=6.04,a=5.13,d=5.43,hit=2,key=hard-space
+757820973768769538|20160726021254|@agent_cooper|Built my own Nvidia quad-GPU devbox for #deeplearning. Then realized it needs dedicated 15A circuit and my house has none free. :-/|v=7.26,a=4.56,d=6.08,hit=1,key=house
+757811472520970240|20160726013509|@HomeWorldArts|Total resolution is now 6400 by 1080.  Productivity dream, but with the ultra wide in the center no good for #Nvidia #spanning.  what now?|v=7.47,a=5.43,d=6.41,hit=1,key=good
+757804676049883136|20160726010808|@LewieP|I don't think Nvidia have specified what kind of performance gains they've achieved, but in theory it should be fairly significant.|v=6.38,a=4.55,d=5.4,hit=2,key=kind-theory
+757802072276217856|20160726005747|@guitarman661|I really wish I could find a gtx1060 or RX 480 on newegg!! #Nvidia #radeon #amd|v=7.09,a=5.16,d=5.28,hit=1,key=wish
+757799851232854016|20160726004858|@BattleScones|@RockstarSupport I'm not sure if you've noticed, but you have multiple threads of people with Nvidia cards complaining that the game crashes|v=7.17,a=5.92,d=5.9,hit=2,key=people-game
+757791956382552064|20160726001736|@Minalien|@MAndrewSprong After the new orange/black Intel+NVidia machine is done, I'll plan out the updates to this one (my AMD+Radeon machine).|v=5.09,a=3.82,d=5.23,hit=1,key=machine
+757786728211951620|20160725235649|@EnglishRose7|@MSAU Hahaha! I had to redownload Nvidia GeForce Experience as it kept freezing on a black screen but apart from that I really like it.|v=5.39,a=4.61,d=5.14,hit=1,key=black
+757778400949915648|20160725232344|@saigyoujisama|@EchoOwl I'm waiting on Nvidia prices to come back down to MSRP and also for there to be money in my bank account.|v=7.59,a=5.7,d=6.25,hit=1,key=money
+757772400960217088|20160725225953|@kentbye|@anshelsag Is AMD used more than Nvidia in Hollywood VFX industry workstations?|v=5.3,a=4.47,d=4.91,hit=1,key=industry
+757768519459086337|20160725224428|@NEOEXE1985|@playeressence I Really don´t trust her at all, because Nvidia Already Said that they are not working on consoles. And her sourse.. well XD|v=6.68,a=5.3,d=6.61,hit=1,key=trust
+757757227876904960|20160725215936|@EvanMcM|So the new Nvidia Quadros are still going to come sans FP64.  So much for Pascal’s killer compute.|v=1.89,a=7.86,d=4.54,hit=1,key=killer
+757746917208125440|20160725211837|@aK_RockHood|@Fwiz what kind of games? FPS then go for 144hz either freesync if you have an AMD card or GSync if you have an Nvidia card.|v=7.59,a=4.46,d=5.95,hit=1,key=kind
+757746130994262016|20160725211530|@Oneyouhate1|@torn_tv run to craft store red electrical tape and white letters show them how to fix a Nvidia lanyard|v=6.44,a=4.84,d=5.88,hit=2,key=red-white
+757742300361584641|20160725210017|@Arsonall|I can't stand the green GEFORCE GTX led's on the side of these Nvidia cards.|v=6.18,a=4.28,d=4.82,hit=1,key=green
+757740558953619458|20160725205322|@devendrone|Nvidia should focus on SLI support for lower end cards as not many people SLI higher end cards, mostly lower end to match performance|v=7.33,a=5.94,d=6.14,hit=1,key=people
+757737621456031745|20160725204141|@Arsonall|@shaun_maddison Seems weird to me man. You sure you have prefer maximum performance on your power plan in control panel? Not Nvidia CP?|v=6.54,a=6.67,d=7.28,hit=1,key=power
+757735590498476032|20160725203337|@AngryEsper|@ArcadeGirl64 If NX takes the idea of the Nvidia shield and makes it successful, then I'd be ok with that. Play handheld games on TV|v=7,a=5.86,d=6.26,hit=1,key=idea
+757727599242149888|20160725200152|@cheapshoppin|Nvidia Claims Its New Chip Is the 'World's Fastest GPU' for Game and VR Design|v=6.98,a=5.89,d=5.7,hit=1,key=game
