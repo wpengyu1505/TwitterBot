@@ -53,30 +53,32 @@ public class SearchEngine {
         analyzer = new SentimentAnalyzer();
 
         twitter = new TwitterFactory(conf.build()).getInstance();
-        query = new Query(text + " -rt -http -https -@" + text);
+        // query = new Query(text + " -rt -http -https -@" + text);
+        query = new Query(text + " -rt -http -https");
         query.setLang("en");
         query.setUntil(nextDate);
         query.setSince(date);
 
     }
 
-    public void execute(int limit, String outputFile) throws TwitterException, IOException, InterruptedException {
+    public void execute(int limit, String outputFile, String username)
+            throws TwitterException, IOException, InterruptedException {
         query.setCount(limit);
         if (limit > SEARCH_LIMIT) {
-            executeByBatch(limit, outputFile);
+            executeByBatch(limit, outputFile, username);
         } else {
             OutputStreamWriter fw = new OutputStreamWriter(new FileOutputStream(outputFile));
             handleRateStatus();
             QueryResult result = twitter.search(query);
             System.out.println("Returned tweets: " + result.getTweets().size());
             for (Status status : result.getTweets()) {
-                processTweetOutput(status, fw);
+                processTweetOutput(status, fw, username);
             }
             fw.close();
         }
     }
 
-    private void executeByBatch(int limit, String outputFile)
+    private void executeByBatch(int limit, String outputFile, String username)
             throws TwitterException, IOException, InterruptedException {
         query.setCount(limit);
         long tweetId = Long.MAX_VALUE;
@@ -96,7 +98,7 @@ public class SearchEngine {
             for (Status status : result.getTweets()) {
                 tweetId = tweetId > status.getId() ? status.getId() : tweetId;
                 count++;
-                processTweetOutput(status, fw);
+                processTweetOutput(status, fw, username);
             }
 
             // Set the minimum tweet ID as the max for the next query
@@ -105,14 +107,20 @@ public class SearchEngine {
         fw.close();
     }
 
-    private void processTweetOutput(Status status, OutputStreamWriter writer) throws IOException {
+    private void processTweetOutput(Status status, OutputStreamWriter writer, String username) throws IOException {
         String text = status.getText();
         String dateTime = sdtf.format(status.getCreatedAt());
         String tweetId = Long.toString(status.getId());
+        String screenName = status.getUser().getScreenName();
+
+        // If filter by username
+        if (username != null && !username.equalsIgnoreCase(screenName)) {
+            return;
+        }
         Sentiment sm = analyzer.getSentimentScore(text, dateTime, tweetId);
         if (sm != null) {
-            String out = tweetId + "|" + dateTime + "|" + "@" + status.getUser().getScreenName() + "|"
-                    + status.getText().replaceAll("\n", ". ").replaceAll("\\|", " ") + "|" + sm.toString();
+            String out = tweetId + "|" + dateTime + "|" + "@" + screenName + "|"
+                    + text.replaceAll("\n", ". ").replaceAll("\\|", " ") + "|" + sm.toString();
             // System.out.println(out);
             writer.write(out + "\n");
         }
