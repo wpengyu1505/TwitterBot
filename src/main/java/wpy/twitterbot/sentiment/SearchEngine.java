@@ -9,9 +9,11 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Properties;
 
+import twitter4j.Paging;
 import twitter4j.Query;
 import twitter4j.QueryResult;
 import twitter4j.RateLimitStatus;
+import twitter4j.ResponseList;
 import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
@@ -45,40 +47,41 @@ public class SearchEngine {
         conf.setOAuthAccessToken(props.getProperty("oauth.accessToken"));
         conf.setOAuthAccessTokenSecret(props.getProperty("oauth.accessTokenSecrete"));
 
+        analyzer = new SentimentAnalyzer();
+
+        twitter = new TwitterFactory(conf.build()).getInstance();
+    }
+
+    public void searchTweets(String text, String date, int limit, String outputFile)
+            throws TwitterException, IOException, InterruptedException, ParseException {
+
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(sdf.parse(date));
         calendar.add(Calendar.DATE, 1);
         String nextDate = sdf.format(calendar.getTime());
 
-        analyzer = new SentimentAnalyzer();
-
-        twitter = new TwitterFactory(conf.build()).getInstance();
         // query = new Query(text + " -rt -http -https -@" + text);
         query = new Query(text + " -rt -http -https");
         query.setLang("en");
         query.setUntil(nextDate);
         query.setSince(date);
-
-    }
-
-    public void execute(int limit, String outputFile, String username)
-            throws TwitterException, IOException, InterruptedException {
         query.setCount(limit);
+
         if (limit > SEARCH_LIMIT) {
-            executeByBatch(limit, outputFile, username);
+            searchTweetsByBatch(limit, outputFile);
         } else {
             OutputStreamWriter fw = new OutputStreamWriter(new FileOutputStream(outputFile));
             handleRateStatus();
             QueryResult result = twitter.search(query);
             System.out.println("Returned tweets: " + result.getTweets().size());
             for (Status status : result.getTweets()) {
-                processTweetOutput(status, fw, username);
+                processTweetOutput(status, fw);
             }
             fw.close();
         }
     }
 
-    private void executeByBatch(int limit, String outputFile, String username)
+    private void searchTweetsByBatch(int limit, String outputFile)
             throws TwitterException, IOException, InterruptedException {
         query.setCount(limit);
         long tweetId = Long.MAX_VALUE;
@@ -88,6 +91,7 @@ public class SearchEngine {
 
             handleRateStatus();
             QueryResult result = twitter.search(query);
+            twitter.getUserTimeline("");
 
             // If no more tweets returned just quit
             System.out.println("Returned tweets: " + result.getTweets().size());
@@ -98,7 +102,7 @@ public class SearchEngine {
             for (Status status : result.getTweets()) {
                 tweetId = tweetId > status.getId() ? status.getId() : tweetId;
                 count++;
-                processTweetOutput(status, fw, username);
+                processTweetOutput(status, fw);
             }
 
             // Set the minimum tweet ID as the max for the next query
@@ -107,16 +111,26 @@ public class SearchEngine {
         fw.close();
     }
 
-    private void processTweetOutput(Status status, OutputStreamWriter writer, String username) throws IOException {
+    public void getUserTimeline(String username, String outputFile) throws TwitterException, IOException {
+
+        OutputStreamWriter fw = new OutputStreamWriter(new FileOutputStream(outputFile));
+
+        for (int i = 1; i < 10; i++) {
+            Paging paging = new Paging(i, 20);
+            ResponseList<Status> statuses = twitter.getUserTimeline(username, paging);
+            for (Status status : statuses) {
+                processTweetOutput(status, fw);
+            }
+        }
+        fw.close();
+    }
+
+    private void processTweetOutput(Status status, OutputStreamWriter writer) throws IOException {
         String text = status.getText();
         String dateTime = sdtf.format(status.getCreatedAt());
         String tweetId = Long.toString(status.getId());
         String screenName = status.getUser().getScreenName();
 
-        // If filter by username
-        if (username != null && !username.equalsIgnoreCase(screenName)) {
-            return;
-        }
         Sentiment sm = analyzer.getSentimentScore(text, dateTime, tweetId);
         if (sm != null) {
             String out = tweetId + "|" + dateTime + "|" + "@" + screenName + "|"
