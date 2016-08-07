@@ -135,7 +135,6 @@ public class SearchEngine {
         if (sm != null) {
             String out = tweetId + "|" + dateTime + "|" + "@" + screenName + "|"
                     + text.replaceAll("\n", ". ").replaceAll("\\|", " ") + "|" + sm.toString();
-            // System.out.println(out);
             writer.write(out + "\n");
         }
     }

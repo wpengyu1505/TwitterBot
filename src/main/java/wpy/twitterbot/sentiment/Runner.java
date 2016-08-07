@@ -12,6 +12,7 @@ public class Runner {
                     "Must provide arguments: <text|username> <content> <date yyyy-MM-dd> <size limit> <output path>");
             System.exit(-1);
         }
+
         String mode = args[0];
         String content = args[1];
         String date = args[2];
