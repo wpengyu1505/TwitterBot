@@ -16,6 +16,7 @@ public class Runner {
         String mode = args[0];
         String content = args[1];
         String date = args[2];
+
         int limit = Integer.parseInt(args[3]);
         String outputPath = args[4];
         SearchEngine engine = new SearchEngine(content, date);

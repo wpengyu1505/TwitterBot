@@ -61,6 +61,7 @@ public class SearchEngine {
         String nextDate = sdf.format(calendar.getTime());
 
         // query = new Query(text + " -rt -http -https -@" + text);
+
         query = new Query(text + " -rt -http -https");
         query.setLang("en");
         query.setUntil(nextDate);
