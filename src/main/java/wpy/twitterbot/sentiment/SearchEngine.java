@@ -9,6 +9,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Properties;
 
+import twitter4j.HashtagEntity;
 import twitter4j.Paging;
 import twitter4j.Query;
 import twitter4j.QueryResult;
@@ -18,6 +19,7 @@ import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
+import twitter4j.UserMentionEntity;
 import twitter4j.conf.ConfigurationBuilder;
 
 /**
@@ -131,11 +133,19 @@ public class SearchEngine {
         String dateTime = sdtf.format(status.getCreatedAt());
         String tweetId = Long.toString(status.getId());
         String screenName = status.getUser().getScreenName();
+        HashtagEntity[] hashtags = status.getHashtagEntities();
+        UserMentionEntity[] mentions = status.getUserMentionEntities();
 
         Sentiment sm = analyzer.getSentimentScore(text, dateTime, tweetId);
         if (sm != null) {
             String out = tweetId + "|" + dateTime + "|" + "@" + screenName + "|"
-                    + text.replaceAll("\n", ". ").replaceAll("\\|", " ") + "|" + sm.toString();
+                    + text.replaceAll("\n", ". ").replaceAll("\\|", " ") + "|" + formatHashTags(hashtags) + "|"
+                    + formatMentions(mentions) + "|" + sm.toString();
+            writer.write(out + "\n");
+        } else {
+            String out = tweetId + "|" + dateTime + "|" + "@" + screenName + "|"
+                    + text.replaceAll("\n", ". ").replaceAll("\\|", " ") + "|" + formatHashTags(hashtags) + "|"
+                    + formatMentions(mentions) + "|" + "neutral";
             writer.write(out + "\n");
         }
     }
@@ -149,5 +159,25 @@ public class SearchEngine {
                     "Search has reached limit, wait " + rateLimitStatus.getSecondsUntilReset() + " seconds to reset");
             Thread.sleep(rateLimitStatus.getSecondsUntilReset() * 1000);
         }
+    }
+
+    private String formatHashTags(HashtagEntity[] hashtags) {
+
+        String output = "hashtag(";
+        for (HashtagEntity hashtag : hashtags) {
+            output += hashtag.getText() + ",";
+        }
+        output += ")";
+        return output;
+    }
+
+    private String formatMentions(UserMentionEntity[] mentions) {
+
+        String output = "mention(";
+        for (UserMentionEntity mention : mentions) {
+            output += mention.getScreenName() + ",";
+        }
+        output += ")";
+        return output;
     }
 }
